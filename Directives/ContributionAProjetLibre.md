@@ -1,7 +1,7 @@
 
 # Directive de contribution à un projet libre existant
 
-## 1 Introduction
+## Introduction
 Suivant sa politique sur l’utilisation et le développement des logiciels
 et du matériel libres, la Ville de Montréal sera amenée à contribuer à
 des projets libres existants. Ces contributions seront faites dans deux
@@ -14,7 +14,7 @@ la Ville et de la communauté.
 Le présent document décrit les grandes lignes du processus à suivre
 afin de contribuer à un projet libre existant.
 
-## 2 Portée
+## Portée
 Cette directive s’adresse à l’ensemble des unités administratives de
 la Ville de Montréal susceptibles de contribuer à des projets de
 logiciels ou matériels libres.  Plus spécifiquement, elle vise à guider
@@ -25,7 +25,7 @@ Cette directive s’applique autant aux employés de la Ville qu’à ses
 contractants ou aux tierces parties appelées à faire des contributions
 pour la Ville à des projets libres existants.
 
-## 3 Définitions
+## Définitions
 **Contrat de licence du contributeur *(Contributor License Agreement)*
 (CLA)**: Accord entre un contributeur et l’entité juridique gérant un
 projet libre, permettant de contribuer de la propriété intellectuelle
@@ -58,7 +58,7 @@ l'exécution de l'ensemble des opérations qui sont jugées nécessaires
 pour garantir le bon fonctionnement d'un projet de logiciel ou matériel
 libres, conformément à des spécifications définies.
 
-## 4 Permissions de contribution
+## Permissions de contribution
 Afin de respecter les valeurs d’intégrité, de respect et de loyauté
 de la Ville de Montréal, les projets libres auxquels contribue la Ville
 ne doivent pas être en conflit avec lesdites valeurs.
@@ -78,7 +78,7 @@ Un fichier est maintenu répertoriant les projets ayant obtenu une
 permission globale de contribution. Ce fichier fait parti de ce dépôt sous
 le répertoire `Approbations`.
 
-## 5 Propriété intellectuelle
+## Propriété intellectuelle
 Toutes modifications apportées à un projet libre par un employé ou un
 contractant durant les heures rémunérées par la Ville sont la propriété
 de la Ville et doivent donc être faites au nom de la Ville.
@@ -96,7 +96,7 @@ façon personnelle.
 Pour le reste de ce document, nous utiliserons le terme “contributions”
 pour signifier des contributions faites au nom de la Ville.
 
-### 5.1 Identité à utiliser pour une contribution
+### Identité à utiliser pour une contribution
 Toutes les contributions faites au nom de la Ville par un employé ou un
 contractant qui travaille pour la Ville doivent être faites en utilisant
 **l’adresse courriel fournie par la Ville** et le nom de la personne faisant
@@ -114,7 +114,7 @@ travaille pour la Ville.
 Toutes contributions faites de façon personnelle doivent être faites en
 utilisant une adresse courriel personnelle.
 
-### 5.2 Droits de contribution
+### Droits de contribution
 Dans tous les cas de contributions, et même si ce n’est pas explicitement
 requis par le projet libre en question, le contributeur doit s’assurer que
 la Ville de Montréal possède les droits vis-à-vis de toutes les modifications.
@@ -135,7 +135,7 @@ devra être signé par le directeur des STI.
 **La validation et l’approbation du CLA doivent être incluses à la permission
 de contribution décrite à l’article 4.**
 
-### 5.3 Assignation de droits d’auteurs
+### Assignation de droits d’auteurs
 Certains projets requièrent plus qu’un CLA et demandent une assignation
 des droits d’auteurs.
 
@@ -144,7 +144,7 @@ Dans ce cas, une permission, accompagnée d’une autre signature, sera requise.
 **La validation et l’approbation des signatures complémentaires au CLA
 doivent être incluses à la permission de contribution décrite à l’article 4.**
 
-## 6 Licence
+## Licence
 Tout nouveau fichier à contribuer devra utiliser la licence requise par le
 projet en question.  La licence est souvent incluse au haut du fichier dans
 le cas de fichiers texte, mais cela peut dépendre du projet en question.
@@ -156,7 +156,7 @@ projet pour le type de composante en question; si le choix de cette licence
 n’a pas encore été fait par le projet, il devra être fait par un des
 responsables du projet.
 
-## 7 Information sensible
+## Information sensible
 Toute contribution doit respecter la Loi sur la protection des renseignements
 personnels du Québec; ne pas nuire à la protection de la vie privée, à la
 sécurité publique ou à la sécurité de l’information de la Ville de Montréal.
@@ -168,7 +168,7 @@ Une liste non-exhaustive d’exceptions est fournie:
 
 - ***À REMPLIR***
 
-## 8 Code de conduite
+## Code de conduite
 Les contributions faites au nom de la Ville de Montréal affectent
 potentiellement la réputation de la Ville. Il est important de protéger
 cette réputation pour préserver l’image de la Ville.
@@ -190,7 +190,7 @@ Pour cela:
   technique.  Une revue de la contribution par des pairs, avant sa soumission au
   projet, est recommandée afin d’assurer la qualité de la contribution.
 
-## 9 Application de la directive
+## Application de la directive
 Les étapes à suivre pour faire une contribution à un projet existants sont:
 
 1. Identifier un besoin de contribution à un projet libre.
