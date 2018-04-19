@@ -198,9 +198,9 @@ Les étapes à suivre pour faire une contribution à un projet existants sont:
 ou débuter le processus d’approbation, incluant la signature du CLA si
 nécessaire;
 1. Se familiariser avec le processus de contribution du projet:
-  1. Lire le document README et CONTRIBUTING du projet, si présents, afin de
+    * Lire le document README et CONTRIBUTING du projet, si présents, afin de
 comprendre le processus de contribution;
-  1. Examiner une ou deux contributions passées et approuvées pour comprendre les
+    * Examiner une ou deux contributions passées et approuvées pour comprendre les
 étapes à suivre.
 1. Créer ou modifier les éléments de la solution à contribuer;
 1. Entamer le processus de contribution;
