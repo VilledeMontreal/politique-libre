@@ -53,7 +53,7 @@ artéfacts.
 **Propriété intellectuelle**: Droits légaux quant à des créations
 intellectuelles par exemple un logiciel ou des plans de matériels.
 
-**Responsable du projet (Maintainer)**: Personne responsable de
+**Responsable du projet (*Maintainer*)**: Personne responsable de
 l'exécution de l'ensemble des opérations qui sont jugées nécessaires
 pour garantir le bon fonctionnement d'un projet de logiciel ou matériel
 libres, conformément à des spécifications définies.
