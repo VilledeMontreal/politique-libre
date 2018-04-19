@@ -56,7 +56,7 @@ intellectuelles par exemple un logiciel ou des plans de matériels.
 **Publication libre**: Les efforts et étapes initiaux nécessaires
 à rendre un projet logiciel ou matériel disponible au grand public.
 
-**Responsable du projet *(Maintainer)* **: Personne responsable de
+**Responsable du projet (Maintainer)**: Personne responsable de
 l'exécution de l'ensemble des opérations qui sont jugées nécessaires
 pour garantir le bon fonctionnement d'un projet de logiciel ou matériel
 libres, conformément à des spécifications définies.
