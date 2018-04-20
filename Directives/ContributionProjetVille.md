@@ -198,17 +198,20 @@ servir d’inspiration:
 ### Licence
 
 Chaque composante faisant partie d’une contribution devra utiliser la licence approprié
-comme définie à la section 5.5.
+comme définie plus haut. 
 
-### Contrat de licence du contributeur (Contributor License Agreement - CLA)
+### Contrat de licence du contributeur (*Contributor License Agreement - CLA*)
 Dans tous les cas de contributions, un responsable du projet doit s’assurer que la personne
 effectuant la contribution possède les droits nécessaires vis-à-vis de toutes les
 modifications soumises.  Pour cela, le contributeur doit confirmer explicitement que:
-1.la contribution a été rédigée en tout ou en partie par le contributeur et qu’il/elle a
-les droits de publier la contribution sous la licence libre du projet 
-OU
-1.la contribution a été fournie au contributeur par une autre personne qui certifie la
-clause #1, et que cette contribution n’a pas été modifiée depuis.
+
+  1. **la contribution a été rédigée en tout ou en partie par le contributeur
+  et qu’il/elle a les droits de publier la contribution sous la licence libre
+  du projet**;<br>
+  ***OU***
+  1. **la contribution a été fournie au contributeur par une autre personne
+  qui certifie la clause #1, et que cette contribution n’a pas été modifiée
+  depuis.**
 
 L’utilisation d’un contrat de licence du contributeur (CLA) par le projet est recommandée
 afin de gérer les contributions au projet.  Différentes solutions encadrant la gestion de
