@@ -1,9 +1,9 @@
-# Projet approuvés
+# Projets approuvÃ©s
 
-Voici la liste des projets libres auxquels la Ville de Montréal peut contribuer.
+Voici la liste des projets libres auxquels la Ville de MontrÃ©al peut contribuer.
 
-Pour faire approuver un nouveau projet, il faut faire la demande au **Comité
-du Libre** de la Ville de Montréal.
+Pour faire approuver un nouveau projet, il faut faire la demande au **ComitÃ©
+du Libre** de la Ville de MontrÃ©al.
 
 Nom du projet                            |  URL du projet
 -------------                            |  ----------------
