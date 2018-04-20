@@ -1,13 +1,13 @@
 
-# Directive sur la publication et le maintien d’un projet Ville en un projet libre
+# Directive sur la publication et le maintien d’un projet Ville en libre
 
 ## Introduction
 Suivant sa politique sur l’utilisation et le développement des logiciels
-et du matériel libres, la Ville de Montréal sera amenée à publier des
+et du matériel libres, la Ville de Montréal publiera des
 projets développés par et pour la Ville, en tant que projets libres.
 
 Le présent document décrit les grandes lignes du processus à suivre afin
-de publier un tel projet et de le maintenir en tant que projet libre.
+de publier un tel projet et de le maintenir.
 
 ## Portée
 
@@ -78,7 +78,7 @@ ou les avantages de créer un marché ouvert parallèle;
 1. les risques potentiels,
 1. les coûts à prévoir (nombre d’employés affectés aux projet,
 tâches requises pour le maintien du projet après sa publication,
-estimation de la durée de l’implication, etc.).
+estimation de la durée de la participation, etc.).
 
 ## Publication
 
@@ -91,15 +91,15 @@ le responsable du projet doit:
 1. s’assurer que tout fichier faisant partie de la publication est,
 de façon exclusive, la propriété intellectuelle de la Ville;<br>
 ou,
-1. s’assurer que la Ville possède les droits nécessaires à publier
+1. s’assurer que la Ville possède les droits nécessaires pour publier
 tous les fichiers faisant partie de la publication sous la licence
 libre en question (voir la section sur la licence).
 
 La publication libre d’un tel projet est faite au nom de la Ville
-dans le dépôt public identifié par le service des TI.
+dans le dépôt public identifié par le Service des TI.
 
 Lorsqu’un projet devient disponible en tant que projet libre, toutes
-contributions futures sont régies par la directive de contribution à
+contributions futures sont régies par la Directive de contribution à
 un projet logiciel existant.
 
 ### Forge de logiciels libres
@@ -120,7 +120,7 @@ Il est recommandé de désigner plus d’un responsable afin d’assurer le
 maintien du projet.
 
 Durant la vie du projet, de nouveaux responsables peuvent être nommés
-après qu’ils aient démontré les compétences nécessaires au rôle.  Une
+après qu’ils aient démontré les compétences nécessaires pour assurer ce rôle.  Une
 telle nomination doit être appuyée par au moins un responsable existant,
 sans être refusée par aucun autre responsable du projet.  Après une
 nomination approuvée, un nouveau responsable se verra accorder les mêmes
@@ -158,7 +158,7 @@ projet, et ce, dès la publication initiale.
 Pour les autres composantes du projet, tel les images et la documentation, une des
 licences Creative Commons sera utilisée.
 
-Pour les bases de données, la licence Open Data Commons Open Database License (ODbL)
+Pour les bases de données, la licence *Open Data Commons Open Database License (ODbL)*
 sera utilisée (voir l’appendice A).
 
 ### Information sensible
@@ -197,7 +197,7 @@ servir d’inspiration:
 
 ### Licence
 
-Chaque composante faisant partie d’une contribution devra utiliser la licence approprié
+Chaque composante faisant partie d’une contribution devra utiliser la licence appropriée
 comme définie plus haut. 
 
 ### Contrat de licence du contributeur (*Contributor License Agreement - CLA*)
@@ -298,7 +298,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Licence MIT locale
 
-Ajoutez le texte suivant dans l’entête de tout fichier de code du projet.  Cela inclut de nouveaux
+Ajoutez le texte suivant dans l’en-tête de tout fichier de code du projet.  Cela inclut de nouveaux
 fichiers ajoutés après la publication initiale et faisant partie d’une contribution.  Dépendant du
 langage de programmation, les “//” devront peut-être être remplacés par la syntaxe appropriée pour
 des commentaires.

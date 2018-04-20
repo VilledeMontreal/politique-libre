@@ -17,7 +17,7 @@ afin de contribuer à un projet libre existant.
 ## Portée
 Cette directive s’adresse à l’ensemble des unités administratives de
 la Ville de Montréal susceptibles de contribuer à des projets de
-logiciels ou matériels libres.  Plus spécifiquement, elle vise à guider
+logiciels ou de matériels libres.  Plus spécifiquement, elle vise à guider
 les personnes chargées de faire une ou plusieurs de ces contributions
 au nom de la Ville.
 
@@ -75,7 +75,7 @@ La permission globale sera permanente, à moins d’un changement majeur
 de la réalité du projet libre qui contreviendrait aux valeurs de la Ville.
 
 Un fichier est maintenu répertoriant les projets ayant obtenu une
-permission globale de contribution. Ce fichier fait parti de ce dépôt sous
+permission globale de contribution. Ce fichier fait partie de ce dépôt sous
 le répertoire `Approbations`.
 
 ## Propriété intellectuelle
@@ -100,11 +100,11 @@ pour signifier des contributions faites au nom de la Ville.
 Toutes les contributions faites au nom de la Ville par un employé ou un
 contractant qui travaille pour la Ville doivent être faites en utilisant
 **l’adresse courriel fournie par la Ville** et le nom de la personne faisant
-la contribution, sauf avec entente écrite entre la Ville et l’employé ou
+la contribution, sauf avec une entente écrite entre la Ville et l’employé ou
 le contractant.
 
 L’utilisation de l’adresse courriel de la Ville permet de distinguer les
-contributions faites au nom de la Ville et de celles réalisées en dehors
+contributions faites au nom de la Ville de celles réalisées en dehors
 des heures de travail (non rémunérées par la Ville).
 
 Toutes contributions pour lesquelles la Ville possède la propriété
@@ -128,11 +128,11 @@ Pour cela, le contributeur doit confirmer que:
   qui certifie la clause #1, et que cette contribution n’a pas été modifiée
   depuis.**
 
-Si le projet requiert un contrat de licence du contributeur (CLA), ce dernier
-devra être signé par la personne concernée.  Dans la majorité des cas, le CLA
+Si le projet requiert un contrat de licence du contributeur (*CLA*), ce dernier
+devra être signé par la personne concernée.  Dans la majorité des cas, le *CLA*
 devra être signé par le directeur des STI.
 
-**La validation et l’approbation du CLA doivent être incluses à la permission
+**La validation et l’approbation du *CLA* doivent être incluses à la permission
 de contribution décrite plus haut.**
 
 ### Assignation de droits d’auteurs
@@ -186,7 +186,7 @@ Pour cela:
   etc) doivent être faites de façon professionnelle, polie et respectueuse,
   peu importe l’attitude des autres parties,
   1. toute contribution doit être faite suivant les requis du projet en question,
-  1. toute contribution doit être faite avec un haut standard  de qualité
+  1. toute contribution doit être faite avec un haut standard de qualité
   technique.  Une revue de la contribution par des pairs, avant sa soumission au
   projet, est recommandée afin d’assurer la qualité de la contribution.
 
