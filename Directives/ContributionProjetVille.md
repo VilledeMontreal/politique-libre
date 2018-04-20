@@ -56,7 +56,7 @@ intellectuelles par exemple un logiciel ou des plans de matériels.
 **Publication libre**: Les efforts et étapes initiaux nécessaires
 à rendre un projet logiciel ou matériel disponible au grand public.
 
-**Responsable du projet (Maintainer)**: Personne responsable de
+**Responsable du projet (*Maintainer*)**: Personne responsable de
 l'exécution de l'ensemble des opérations qui sont jugées nécessaires
 pour garantir le bon fonctionnement d'un projet de logiciel ou matériel
 libres, conformément à des spécifications définies.
@@ -89,7 +89,8 @@ Ville, un responsable du projet doit s’assurer que la Ville détient
 les droits légaux nécessaires à une telle publication.  Pour cela,
 le responsable du projet doit:
 1. s’assurer que tout fichier faisant partie de la publication est,
-de façon exclusive, la propriété intellectuelle de la Ville ou,
+de façon exclusive, la propriété intellectuelle de la Ville;<br>
+ou,
 1. s’assurer que la Ville possède les droits nécessaires à publier
 tous les fichiers faisant partie de la publication sous la licence
 libre en question (voir la section sur la licence).

@@ -122,7 +122,7 @@ Pour cela, le contributeur doit confirmer que:
 
   1. **la contribution a été rédigée en tout ou en partie par le contributeur
   et qu’il/elle a les droits de publier la contribution sous la licence libre
-  requise**
+  requise**;<br>
   ***OU***
   1. **la contribution a été fournie au contributeur par une autre personne
   qui certifie la clause #1, et que cette contribution n’a pas été modifiée
@@ -133,7 +133,7 @@ devra être signé par la personne concernée.  Dans la majorité des cas, le CL
 devra être signé par le directeur des STI.
 
 **La validation et l’approbation du CLA doivent être incluses à la permission
-de contribution décrite à l’article 4.**
+de contribution décrite plus haut.**
 
 ### Assignation de droits d’auteurs
 Certains projets requièrent plus qu’un CLA et demandent une assignation
@@ -142,7 +142,7 @@ des droits d’auteurs.
 Dans ce cas, une permission, accompagnée d’une autre signature, sera requise.
 
 **La validation et l’approbation des signatures complémentaires au CLA
-doivent être incluses à la permission de contribution décrite à l’article 4.**
+doivent être incluses à la permission de contribution décrite plus haut.**
 
 ## Licence
 Tout nouveau fichier à contribuer devra utiliser la licence requise par le
