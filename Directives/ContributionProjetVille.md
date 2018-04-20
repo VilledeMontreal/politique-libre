@@ -1,5 +1,5 @@
 
-# Directive sur la publication et le maintient d’un projet Ville en un projet libre
+# Directive sur la publication et le maintien d’un projet Ville en un projet libre
 
 ## Introduction
 Suivant sa politique sur l’utilisation et le développement des logiciels
