@@ -21,7 +21,7 @@ logiciels ou matériels au nom de la Ville, en tant que projets libres.
 
 ## Définitions
 **Contrat de licence du contributeur *(Contributor License Agreement)*
-(CLA)**: Accord entre un contributeur et l’entité juridique gérant un
+(*CLA*)**: Accord entre un contributeur et l’entité juridique gérant un
 projet libre, permettant de contribuer de la propriété intellectuelle
 à cedit projet.
 
@@ -213,9 +213,9 @@ modifications soumises.  Pour cela, le contributeur doit confirmer explicitement
   qui certifie la clause #1, et que cette contribution n’a pas été modifiée
   depuis.**
 
-L’utilisation d’un contrat de licence du contributeur (CLA) par le projet est recommandée
+L’utilisation d’un contrat de licence du contributeur (*CLA*) par le projet est recommandée
 afin de gérer les contributions au projet.  Différentes solutions encadrant la gestion de
-CLA dans GitHub sont disponibles:
+*CLA* dans GitHub sont disponibles:
 * https://www.clahub.com/
 * https://cla-assistant.io/
 * https://clabot.github.io/
@@ -227,7 +227,7 @@ contribution.
 
 ### Contributions par un responsable du projet
 
-Une modification faite par un responsable du projet et respectant le CLA peut être acceptée
+Une modification faite par un responsable du projet et respectant le *CLA* peut être acceptée
 sans plus de formalité.
 
 ### Contributions externes
@@ -236,7 +236,7 @@ Une contribution par une personne n’étant pas un responsable du projet est co
 “externe”, et ce, même si elle est faite par une personne associée à la Ville.  Toute
 contribution externe devra être approuvée par un responsable du projet.  Avant d’accepter
 une contribution, il est de la responsabilité du responsable du projet de s’assurer que:
-1. le CLA est respecté,
+1. le *CLA* est respecté,
 1. les licences sont publiées dans les fichiers nécessaires,
 1. la contribution est appropriée et de qualité suffisante.
 
@@ -264,7 +264,7 @@ doit:
     * Ajouter les fichiers LICENSE.md et CONTRIBUTING.md;
     * Enlever toute information privée;
     * S’assurer que la Ville détient toute la propriété intellectuelle du projet;
-    * Choisir un outil/processus de CLA.
+    * Choisir un outil/processus de *CLA*.
 1. Lorsque le code du projet est prêt, le responsable du projet le publie sous
 https://github.com/villedemontreal
 1. Le ou les responsables du projet assurent le maintien du projet libre et gèrent

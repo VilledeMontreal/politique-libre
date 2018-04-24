@@ -27,7 +27,7 @@ pour la Ville à des projets libres existants.
 
 ## Définitions
 **Contrat de licence du contributeur *(Contributor License Agreement)*
-(CLA)**: Accord entre un contributeur et l’entité juridique gérant un
+(*CLA*)**: Accord entre un contributeur et l’entité juridique gérant un
 projet libre, permettant de contribuer de la propriété intellectuelle
 à cedit projet.
 
@@ -136,12 +136,12 @@ devra être signé par le directeur des STI.
 de contribution décrite plus haut.**
 
 ### Assignation de droits d’auteurs
-Certains projets requièrent plus qu’un CLA et demandent une assignation
+Certains projets requièrent plus qu’un *CLA* et demandent une assignation
 des droits d’auteurs.
 
 Dans ce cas, une permission, accompagnée d’une autre signature, sera requise.
 
-**La validation et l’approbation des signatures complémentaires au CLA
+**La validation et l’approbation des signatures complémentaires au *CLA*
 doivent être incluses à la permission de contribution décrite plus haut.**
 
 ## Licence
@@ -195,7 +195,7 @@ Les étapes à suivre pour faire une contribution à un projet existants sont:
 
 1. Identifier un besoin de contribution à un projet libre.
 1. Vérifier si le projet est déjà approuvé pour des contributions de la Ville
-ou débuter le processus d’approbation, incluant la signature du CLA si
+ou débuter le processus d’approbation, incluant la signature du *CLA* si
 nécessaire;
 1. Se familiariser avec le processus de contribution du projet:
     * Lire le document README et CONTRIBUTING du projet, si présents, afin de
