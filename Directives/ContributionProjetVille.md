@@ -261,10 +261,10 @@ Les étapes à suivre pour faire une publication libre d’un projet de la Ville
 projet chargé de la publication.
 1. Le responsable du projet chargé de la publication prépare le code.  En particulier il
 doit:
-    * Ajouter les fichiers LICENSE.md et CONTRIBUTING.md;
-    * Enlever toute information privée;
-    * S’assurer que la Ville détient toute la propriété intellectuelle du projet;
-    * Choisir un outil/processus de *CLA*.
+    1. Ajouter les fichiers LICENSE.md et CONTRIBUTING.md;
+    1. Enlever toute information privée;
+    1. S’assurer que la Ville détient toute la propriété intellectuelle du projet;
+    1. Choisir un outil/processus de *CLA*.
 1. Lorsque le code du projet est prêt, le responsable du projet le publie sous
 https://github.com/villedemontreal
 1. Le ou les responsables du projet assurent le maintien du projet libre et gèrent
