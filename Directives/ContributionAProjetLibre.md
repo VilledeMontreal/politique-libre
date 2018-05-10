@@ -325,11 +325,10 @@ the contributor must ensure that the City holds the rights to any changes. The c
 does so by confirming that:
 
   1. **The contribution was written in whole or part by the contributor who holds the rights
-to publish the contribution under the required open-source licence.
-**;<br>
+  to publish the contribution under the required open-source licence.**;<br>
   ***OR***
-    1. **The contribution was provided to the contributor by another person who certifies
-compliance with Clause #1, and that this contribution has not been altered subsequently.
+  1. **The contribution was provided to the contributor by another person who certifies
+  compliance with Clause #1, and that this contribution has not been altered subsequently.**
 
 If the project requires a contributor licence agreement (CLA), it must be signed by the person
 concerned. In most cases, the CLA must be signed by the director of IT.
