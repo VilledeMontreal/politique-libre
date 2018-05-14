@@ -365,7 +365,7 @@ information.
 
 A partial list of exceptions follows:
 
-- TO BE PROVIDED
+- ***TO BE PROVIDED***
 
 ## Code of Conduct
 

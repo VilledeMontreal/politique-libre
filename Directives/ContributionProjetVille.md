@@ -1,3 +1,4 @@
+Find the english version further below.
 
 # Directive sur la publication et le maintien d’un projet Ville en libre
 
@@ -105,7 +106,7 @@ un projet logiciel existant.
 ### Forge de logiciels libres
 
 La publication de projet sera faite dans GitHub sous le compte de la 
-Ville: https://github.com/villedemontreal
+Ville: github.com/villedemontreal
 
 ### Responsables du projet
 
@@ -171,7 +172,8 @@ Il est de la responsabilité du responsable de projet faisant la publication de
 s’assurer que le projet à publier ne contient pas ce type d’information.
 
 Une liste non-exhaustive d’exceptions est fournie:
-À REMPLIR
+
+- ***À REMPLIR***
 
 ## Contributions
 
@@ -190,10 +192,10 @@ contribution au projet.  Un fichier CONTRIBUTING.md, doit être mis dans le
 répertoire de base du projet.  Les bonnes pratiques de contribution sont spécifiques
 à un projet et à ses responsables.  Des exemples de fichier CONTRIBUTING.md peuvent
 servir d’inspiration:
-* https://github.com/dotnet/corefx/blob/master/Documentation/project-docs/contributing.md
-* https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md
-* https://github.com/robbyrussell/oh-my-zsh/blob/master/CONTRIBUTING.md
-* https://github.com/facebook/react/blob/master/CONTRIBUTING.md
+* github.com/dotnet/corefx/blob/master/Documentation/project-docs/contributing.md
+* github.com/angular/angular.js/blob/master/CONTRIBUTING.md
+* github.com/robbyrussell/oh-my-zsh/blob/master/CONTRIBUTING.md
+* github.com/facebook/react/blob/master/CONTRIBUTING.md
 
 ### Licence
 
@@ -216,9 +218,9 @@ modifications soumises.  Pour cela, le contributeur doit confirmer explicitement
 L’utilisation d’un contrat de licence du contributeur (*CLA*) par le projet est recommandée
 afin de gérer les contributions au projet.  Différentes solutions encadrant la gestion de
 *CLA* dans GitHub sont disponibles:
-* https://www.clahub.com/
-* https://cla-assistant.io/
-* https://clabot.github.io/
+* www.clahub.com/
+* cla-assistant.io/
+* clabot.github.io/
 
 ### Droits d’auteurs
 
@@ -266,7 +268,7 @@ doit:
     1. S’assurer que la Ville détient toute la propriété intellectuelle du projet;
     1. Choisir un outil/processus de *CLA*.
 1. Lorsque le code du projet est prêt, le responsable du projet le publie sous
-https://github.com/villedemontreal
+github.com/villedemontreal
 1. Le ou les responsables du projet assurent le maintien du projet libre et gèrent
 toutes contributions.
 
@@ -320,3 +322,308 @@ http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents
 database are licensed under the Database Contents License:
 http://opendatacommons.org/licenses/dbcl/1.0/
 ```
+
+---
+
+---
+
+---
+
+# Directive on Publication and Maintenance of an Open-Source Municipal Project
+
+## Introduction
+Under its open-source software/hardware development and use policy, Montréal
+will publish projects developed as open-source projects by and for the city.
+
+The document outlines the procedure for publishing and maintaining such a project.
+
+## Scope
+This directive applies to all of Montréal’s municipal administrative units that
+may contribute to open-source soft- or hardware projects.
+
+This directive applies to city employees, contractors and third-parties publishing
+open-source soft- and hardware projects on behalf of the city.
+
+## Definitions
+
+**Contributor License Agreement—CLA**: Agreement between a contributor and the
+legal entity overseeing an open-source project, permitting a contribution to the
+project’s intellectual property.
+
+**Contributor**: Person contributing to an open-source project.
+
+**Contribution**: Any change in code, documentation, configuration files, plans
+or any other files of an open-source project, to be included in the project concerned.
+
+**Licence**: Contract by which the holder or rights in the soft- or hardware
+authorizes a third party to take certain actions with respect to this software or
+hardware.
+
+**Maintenance of an open-source project**: Efforts required to keep an open-source
+project active. Such efforts include developing the code or project plans, publicly
+documenting the project, providing a useful level of support (but reasonable for
+users), reviewing and accepting contributions, etc.
+
+**Open-source software project**: An application or software library with source code
+and other resources that anyone can use and modify without charge.
+
+**Open-source hardware project**: Plans for tangible artifacts (machines, devices
+and all physical objects) that have been made public so that anyone can manufacture,
+modify, distribute or use them.
+
+**Intellectual property**: Legal rights to intellectual creations, such as software
+or plans for hardware.
+
+**Open-access publication**: Efforts and initial steps required to make an
+open-source software or hardware available to the general public.
+
+**Maintainer**: Person responsible for performing all operations considered
+necessary for ensuring the proper operation of an open-source software or hardware
+project, according to established specifications.
+
+## Contribution Permissions
+
+Benefits, risks and costs must be determined before open-access publication of an
+open-source soft- or hardware project. Once the business unit decides that
+open-access project publication is appropriate, permission must be obtained from
+city’s IT director or the latter’s delegate. This permission is intended to ensure
+that the benefits of open-access publication are consistent with municipal values.
+
+Such permission shall be obtained following submission and acceptance of a file
+containing at least the following information:
+1. The product’s purpose.
+1. Market watch document demonstrating any needs to be met or benefits in creating
+a parallel open market.
+1. Prospective risks.
+1. Estimated costs (number of employees assigned to project, tasks required to
+maintain project following publication, estimated period of participation, etc.).
+
+## Publication
+
+### Intellectual property
+
+A project maintainer must ensure that the city holds the legal rights for
+open-access publication of a software project on behalf of the city, before such
+publication occurs. The project maintainer does so by:
+1. Ensuring that any files that is to be part of the publication is exclusively
+the city’s intellectual property.<br>
+or
+1. Ensuring that the city holds the necessary rights to publish all files to be
+included in the publication under the open-source licence concerned (see the
+Licence section).
+Open-source publication of the project is done on behalf of city to the public
+repository specified by IT.
+If a project is accepted as open source, all future contributions to it are
+covered by the Directive on Contributions to an Existing Software Project.
+
+### Open-Source Software Registry
+
+The project will be published in GitHub under the city’s account at
+github.com/villedemontreal
+
+### Project Maintainers
+
+One or more project maintainers must be designated prior to publication.
+A maintainers should usually have an in-depth understanding of the project
+and will be able to oversee its coding and other features. The project
+maintainer is responsible for managing project development and ensuring
+that the city can benefit from open-access publication.
+
+We recommend naming more than one maintainer to ensure maintenance of the project.
+
+New maintainers might be appointed over the course of a project, once they have
+demonstrated the necessary abilities for this role. Such an appointment must be
+supported by at least one existing maintainer and not be rejected by any other
+project maintainer. Once an appointment has been approved, the new maintainer
+will have the same rights as the others. A person named as maintainer could be
+someone associated with the city or an external contributor not associated with
+the city.
+
+A project maintainer may abandon this role at any time. Under such circumstances,
+s/he advises the rest of the community to ensure a transition of responsibility,
+if necessary.
+
+### Identity to Use for Publication
+
+One of the assigned project maintainers will handle open-access publication of
+the project. This publication must be performed using the maintainer’s name and
+city email address. Any changes made on behalf of the city following project
+publication must also use the city email address.
+
+Using a city email address makes it possible to distinguish between
+contributions made on behalf of the city from those made outside working hours
+(not paid by the city).
+
+All contributions for which the city owns the intellectual property must be
+made by an employee or contractor working for the city.
+
+All individual contributions must be made using a personal email address.
+
+### Licence
+
+Any project code published will use the MIT license. A LICENSE.md file, as
+defined in Appendix A, must be saved to the project’s base folder following
+initial publication.
+
+A Creative Commons license will be used for other project components, such
+as images and documentation.
+
+The Open Data Commons Open Database License (ODbL) will be used for
+databases (see Appendix A).
+
+### Sensitive Information
+
+Open-source publication of a project must comply with Québec’s Privacy Act,
+and must not jeopardize privacy, public safety or Montréal’s information
+security.
+
+The project maintainer is responsible for ensuring that the project to be
+published does not contain such information.
+
+A partial list of exceptions follows:
+
+- ***TO BE PROVIDED***
+
+## Contributions
+
+An open-source project is expected to evolve following its publication.
+Internal (municipal) and external (from a contributor not associated with
+the city) contributions are received to fix bugs and add features. These
+contributions must be properly administered.
+
+A project maintainer is responsible for overseeing, accepting and refusing
+contributions.
+
+### Best Practices for Contributions
+
+Project maintainers define the steps to be followed in making a contribution
+to the project. A CONTRIBUTING.md file must be placed in the project’s base
+directory. Best practices for a project are specific to a project and its
+maintainers. Existing CONTRIBUTING.md files may serve as sources of inspiration:
+* github.com/dotnet/corefx/blob/master/Documentation/project-docs/contributing.md
+* github.com/angular/angular.js/blob/master/CONTRIBUTING.md
+* github.com/robbyrussell/oh-my-zsh/blob/master/CONTRIBUTING.md
+* github.com/facebook/react/blob/master/CONTRIBUTING.md
+
+### Licence
+
+Every component of a contribution must have the appropriate licence as defined
+above.
+
+### Contributor License Agreement—CLA
+
+A project maintainer must, in the case of all contributions, ensure that the
+person making them holds the necessary rights to make all the changes requested.
+The contributor does so by specifically confirming that:
+
+  1. **The contribution was written in whole or part by the contributor who holds
+  the rights to publish the contribution under the required open-source licence.**<br>
+  ***OR***
+  1. **The contribution was provided to the contributor by another person who
+  certifies that clause #1 is true, and this contribution has not been subsequently
+  altered.**
+
+We recommend that the project use a contributor licence agreement (CLA) to administer
+contributions to it. Various CLA management solutions may be found in GitHub:
+* www.clahub.com/
+* cla-assistant.io/
+* clabot.github.io/
+
+### Copyright
+
+The copyright for each contribution will remain with the contribution’s original author.
+
+### Contributions by a Project maintainer
+
+A change made by a project maintainer that complies with the CLA may be accepted
+without other formalities.
+
+### External Contributions
+
+A contribution from someone other than a project maintainer is considered “external”
+even if made by a person associated with the city. All external contributions must
+be approved by a project maintainer. Before accepting a contribution, the project
+maintainer must ensure that:
+1. It complies with the CLA.
+1. Licences have been published in the required files.
+1. The contribution is appropriate and of suitable quality.
+
+## Code of Conduct
+
+Maintenance of open-source projects on behalf of the city have a potential impact
+on Montréal’s reputation, which must be protected to preserve the city’s image.
+This means that all interactions with an open-source community whether through
+public (forums, email lists, open phone calls, etc.) or private (face-to-face,
+private phone calls, direct emails, etc.) channels must be professional, polite
+and respectful, regardless of the other parties’ attitudes.
+
+## Application of Directive
+
+This is how to make open-access publication of a municipal project:
+
+1. Confirm that there is a desire to make open-access publication of a project.
+1. The solutions architect prepares the file required for approval and submits
+it to an IT director or the latter’s delegate.
+1. Once permission has been obtained, the solutions architect designates the
+project maintainer in charge of publication.
+1. The project maintainer responsible for publication prepares the code. In
+particular, s/he must:
+    1. Add the LICENSE.md and CONTRIBUTING.md files.
+    1. Remove all private information.
+    1. Make sure the city possesses all of the project’s intellectual property.
+    1. Select a CLA tool/process.
+1. Once the project’s code is ready, the project maintainer publishes it in
+github.com/villedemontreal
+1. The project maintainer(s) ensure(s) maintenance of the open-source project
+and administers all contributions.
+
+## Appendix A — Licences
+
+### Global MIT License
+
+Add the file LICENSE.md to the project’s main folder, using the following
+content (inserting the year of publication):
+
+```
+Copyright <YEAR> Ville de Montreal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+### Local MIT License
+
+Add the following text in the header of any project code file. This includes new files
+that are part of a contribution and are added after the initial publication. Depending
+on the programming languages, “//” should be replaced by the appropriate comment syntax.
+
+```
+// Copyright (c) Ville de Montreal. All rights reserved.
+// Licensed under the MIT license.
+// See LICENSE.md file in the project root for full license information.
+```
+
+### ODbL License
+
+Clearly add wherever necessary the following sentence (replacing
+{DATA(BASE)-NAME} with the appropriate information):
+
+```
+This {DATA(BASE)-NAME} is made available under the Open Database License:
+http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the
+database are licensed under the Database Contents License:
+http://opendatacommons.org/licenses/dbcl/1.0/
+```
+
