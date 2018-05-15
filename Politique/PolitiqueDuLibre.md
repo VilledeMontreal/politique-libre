@@ -1,3 +1,5 @@
+Find the english version further below.
+
 # POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES
 
 ## Introduction
