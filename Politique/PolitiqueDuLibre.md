@@ -35,7 +35,7 @@ matériel libre.
 
 **Logiciel libre** : Un programme informatique ou une bibliothèque logicielle pour
 lequel le code et autres ressources sont mis à la disposition du public pour utilisation
-ou modification, et ce, sans compensation.
+ou modification.
 
 **Matériel libre** : Plan ou design d’artéfacts tangibles (machines, dispositifs ou
 tout objet physique) ayant été rendu public de façon à ce que quiconque puisse
