@@ -15,7 +15,7 @@ afin de s’assurer de la conformité et de la transparence de ses choix technol
 Les objectifs de la présente politique sont les suivants :
 * Orienter la sélection et l'utilisation de logiciels et du matériel libres;
 * Permettre la participation au développement de logiciels et du matériel libres par
-* les employés de la Ville ainsi que ses fournisseurs;
+  les employés de la Ville ainsi que ses fournisseurs;
 * Contribuer à l'augmentation de la qualité et de la sécurité des solutions offertes;
 * Favoriser la réutilisation des solutions technologiques développées par ou pour la
 * Ville et en particulier faciliter le partage avec les administrations publiques;
