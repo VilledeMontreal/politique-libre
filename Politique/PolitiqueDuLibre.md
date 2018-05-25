@@ -18,7 +18,7 @@ Les objectifs de la présente politique sont les suivants :
   les employés de la Ville ainsi que ses fournisseurs;
 * Contribuer à l'augmentation de la qualité et de la sécurité des solutions offertes;
 * Favoriser la réutilisation des solutions technologiques développées par ou pour la
-* Ville et en particulier faciliter le partage avec les administrations publiques;
+  Ville et en particulier faciliter le partage avec les administrations publiques;
 * Stimuler l’innovation et la concurrence des marchés;
 * Fournir des solutions modernes et adaptées aux citoyens;
 * Contribuer au bien commun.
