@@ -1,4 +1,4 @@
-Find the english version further below.
+[English](#policy-concerning-the-use-and-development-of-open-source-software-and-hardware)
 
 # POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES
 
