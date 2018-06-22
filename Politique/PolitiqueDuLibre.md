@@ -1,4 +1,4 @@
-Find the english version further below.
+[English](#english-version)
 
 # POLITIQUE SUR L’UTILISATION ET LE DÉVELOPPEMENT DES LOGICIELS ET DU MATÉRIEL LIBRES
 
@@ -131,6 +131,9 @@ La présente politique entre en application dès son adoption.
 ---
 
 ---
+
+<a id='english-version' class='anchor' aria-hidden='true'/>
+
 # POLICY CONCERNING THE USE AND DEVELOPMENT OF OPEN SOURCE SOFTWARE AND HARDWARE
 
 ## Introduction
