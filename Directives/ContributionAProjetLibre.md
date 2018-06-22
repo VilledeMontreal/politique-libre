@@ -1,4 +1,4 @@
-Find the english version further below.
+[English](#english-version)
 
 # Directive de contribution à un projet libre existant
 
@@ -218,6 +218,7 @@ complétées.
 
 ---
 
+<a id='english-version' class='anchor' aria-hidden='true'/>
 # Directive on Contributing to an Existing Open-Source Project
 
 ## Introduction
