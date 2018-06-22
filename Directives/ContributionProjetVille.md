@@ -1,4 +1,4 @@
-Find the english version further below.
+[English](#english-version)
 
 # Directive sur la publication et le maintien d’un projet Ville en libre
 
@@ -328,6 +328,8 @@ http://opendatacommons.org/licenses/dbcl/1.0/
 ---
 
 ---
+
+<a id='english-version' class='anchor' aria-hidden='true'/>
 
 # Directive on Publication and Maintenance of an Open-Source Municipal Project
 
