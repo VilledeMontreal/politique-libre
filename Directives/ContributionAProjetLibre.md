@@ -65,9 +65,8 @@ de la Ville de Montréal, les projets libres auxquels contribue la Ville
 ne doivent pas être en conflit avec lesdites valeurs.
 
 Avant une toute première contribution à un projet libre, une **permission
-globale devra être obtenue** du directeur du Service des technologies de l'information (TI) ou de son
-délégué, le Comité du libre, afin de s’assurer que le projet en question est compatible
-avec les valeurs de la Ville. 
+globale devra être obtenue** du Comité du libre afin de s’assurer que le
+projet en question est compatible avec les valeurs de la Ville.
 
 Si un projet libre est approuvé, cette permission sera applicable à
 toutes contributions futures.
@@ -115,13 +114,12 @@ travaille pour la Ville.
 Toutes contributions faites de façon personnelle doivent être faites en
 utilisant une adresse courriel personnelle.
 
-> Modifier cette section une fois la recommandation REC-001 approuvée ou non
-
 ### Droits de contribution
 Dans tous les cas de contributions, et même si ce n’est pas explicitement
 requis par le projet libre en question, le contributeur doit s’assurer que
 la Ville de Montréal possède les droits vis-à-vis toutes les modifications.
-Pour cela, le contributeur doit confirmer que **la contribution a été rédigée en tout ou en partie par le contributeur et qu’il/elle a les droits de publier la contribution sous la licence libre requise**;
+Pour cela, le contributeur doit confirmer **qu’il a les droits de publier
+la contribution sous la licence libre requise**;
 
 Si le projet requiert un contrat de licence du contributeur (*CLA*), ce dernier
 devra être signé par la personne concernée, le directeur du Service des TI.
@@ -147,7 +145,6 @@ Une licence différente est souvent requise pour les composantes de nature
 non logicielles ou non matérielles, telles les images, la documentation, les
 bases de données. La licence à utiliser sera celle sélectionnée par le
 projet pour le type de composante en question.
-
 
 ## Information sensible
 Toute contribution doit respecter la Loi sur la protection des renseignements
