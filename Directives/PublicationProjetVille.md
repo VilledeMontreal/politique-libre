@@ -21,13 +21,6 @@ contractants ou aux tierces parties appelées à publier des projets
 logiciels ou matériels au nom de la Ville, en tant que projets libres.
 
 ## Définitions
-**Contrat de licence du contributeur *(Contributor License Agreement)*
-(*CLA*)**: Accord entre un contributeur et l’entité juridique gérant un
-projet libre, permettant de contribuer de la propriété intellectuelle
-à cedit projet.
-
-**Contributeur**: Personne faisant une contribution à un projet libre.
-
 **Contribution**: Tout changement au code, à la documentation, aux
 fichiers de configuration, aux plans, ou à tout autre fichier d’un
 projet libre, qui est donné au projet en question pour y être inclus.
@@ -129,16 +122,14 @@ relatives au maintien du projet libre.
 Les étapes à suivre pour faire une publication libre d’un projet de la Ville sont:
 
 1. Identifier une volonté de publication d’un projet en libre.
-1. L’architecte de solutions rédige le dossier nécessaire à l’approbation et le présente
-à un directeur du STI, ou à son délégué.
+1. L’architecte de solutions du projet présente la demande au Comité du Libre
 1. Lorsque la permission est obtenue, l’architecte de solutions désigne le responsable du
 projet chargé de la publication.
 1. Le responsable du projet chargé de la publication prépare le code.  En particulier il
 doit:
-    1. Ajouter les fichiers LICENSE.md et CONTRIBUTING.md;
+    1. Ajouter les fichiers LICENSE et CONTRIBUTING.md;
     1. Enlever toute information privée;
     1. S’assurer que la Ville détient toute la propriété intellectuelle du projet;
-    1. Choisir un outil/processus de *CLA*.
 1. Lorsque le code du projet est prêt, le responsable du projet le publie sous
 github.com/villedemontreal
 1. Le ou les responsables du projet assurent le maintien du projet libre et gèrent
@@ -148,7 +139,7 @@ toutes contributions.
 
 ### Licence MIT globale
 
-Ajoutez le fichier LICENSE.md dans le le répertoire principal du projet avec le contenu suivant:
+Ajoutez le fichier LICENSE dans le le répertoire principal du projet avec le contenu suivant:
 (en ayant remplacé <YEAR> par l’année de publication):
 
 ```
@@ -180,7 +171,7 @@ des commentaires.
 ```
 // Copyright (c) Ville de Montreal. All rights reserved.
 // Licensed under the MIT license.
-// See LICENSE.md file in the project root for full license information.
+// See LICENSE file in the project root for full license information.
 ```
 
 ### Licence ODbL
@@ -309,9 +300,8 @@ security.
 
 ## Code of Conduct
 
-The [Code of Conduct](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
-of the employees of the Ville de Montréal is applicable
-to any interaction necessary to the maintaining of the open-source project.
+The [Code of conduct](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+of the City employees applies to all interactions pertaining to open source projects.
 
 ## Application of Directive
 
@@ -324,7 +314,7 @@ it to an IT director or the latter’s delegate.
 project maintainer in charge of publication.
 1. The project maintainer responsible for publication prepares the code. In
 particular, s/he must:
-    1. Add the LICENSE.md and CONTRIBUTING.md files.
+    1. Add the LICENSE and CONTRIBUTING.md files.
     1. Remove all private information.
     1. Make sure the city possesses all of the project’s intellectual property.
     1. Select a CLA tool/process.
@@ -337,7 +327,7 @@ and administers all contributions.
 
 ### Global MIT License
 
-Add the file LICENSE.md to the project’s main folder, using the following
+Add the file LICENSE to the project’s main folder, using the following
 content (inserting the year of publication):
 
 ```
@@ -368,7 +358,7 @@ on the programming languages, “//” should be replaced by the appropriate com
 ```
 // Copyright (c) Ville de Montreal. All rights reserved.
 // Licensed under the MIT license.
-// See LICENSE.md file in the project root for full license information.
+// See LICENSE file in the project root for full license information.
 ```
 
 ### ODbL License

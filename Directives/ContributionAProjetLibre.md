@@ -173,6 +173,9 @@ Pour cela:
   technique.  Une revue de la contribution par des pairs, avant sa soumission au
   projet, est recommandée afin d’assurer la qualité de la contribution.
 
+Le [Code de Conduite](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+des employés de la Ville de Montréal s'applique à toutes interactions relatives aux projets libres.
+
 ## Application de la directive
 Les étapes à suivre pour faire une contribution à un projet existants sont illustrées dans
 [ce diagramme](https://www.lucidchart.com/publicSegments/view/5790e4bb-e4d7-46d2-99ea-5412cad7dad6).
@@ -367,6 +370,10 @@ of the other parties’ attitude.
 1. All contributions must be on a high technical standard. Peer reviews of the
 contribution, prior to its submission to the project, is recommended to ensure the
 contribution’s quality.
+
+The City employees'
+[Code of conduct](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+applies to all interactions pertaining to open source projects.
 
 ## Application of Directive
 
