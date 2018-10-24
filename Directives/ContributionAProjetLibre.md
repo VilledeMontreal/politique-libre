@@ -1,16 +1,16 @@
 [English](#english-version)
 
-# Directive de contribution à un projet libre existant
+# Directive de contribution à un projet libre
 
 ## Introduction
 Suivant sa politique sur l’utilisation et le développement des logiciels
 et du matériel libres, la Ville de Montréal sera amenée à contribuer à
 des projets libres existants. Ces contributions seront faites dans deux
-buts majeurs:
-  1. réparer des bogues dans le projet pour en permettre une meilleure
+buts principaux :
+  1. réparer des bogues au produit pour en permettre une meilleure
 utilisation par la Ville et par la communauté,
-  1. ajouter des fonctionnalités au projet pour répondre aux besoins de
-la Ville et de la communauté.
+  1. ajouter des fonctionnalités au produit pour répondre aux besoins de
+la Ville et/ou de la communauté.
 
 Le présent document décrit les grandes lignes du processus à suivre
 afin de contribuer à un projet libre existant.
@@ -29,7 +29,7 @@ pour la Ville à des projets libres existants.
 ## Définitions
 **Contrat de licence du contributeur *(Contributor License Agreement)*
 (*CLA*)**: Accord entre un contributeur et l’entité juridique gérant un
-projet libre, permettant de contribuer de la propriété intellectuelle
+projet libre permettant de contribuer de la propriété intellectuelle
 à cedit projet.
 
 **Contributeur**: Personne faisant une contribution à un projet libre.
@@ -52,7 +52,7 @@ dispositifs ou toutes choses physiques) ayant été rendus publics de façon
 artéfacts.
 
 **Propriété intellectuelle**: Droits légaux quant à des créations
-intellectuelles par exemple un logiciel ou des plans de matériels.
+intellectuelles tel que des artéfacts logiciels ou des plans de matériels.
 
 **Responsable du projet (*Maintainer*)**: Personne responsable de
 l'exécution de l'ensemble des opérations qui sont jugées nécessaires
@@ -65,9 +65,8 @@ de la Ville de Montréal, les projets libres auxquels contribue la Ville
 ne doivent pas être en conflit avec lesdites valeurs.
 
 Avant une toute première contribution à un projet libre, une **permission
-globale devra être obtenue** du directeur du service des TI, ou de son
-délégué, afin de s’assurer que le projet en question est compatible
-avec les valeurs de la Ville.
+globale devra être obtenue** du Comité du libre afin de s’assurer que le
+projet en question est compatible avec les valeurs de la Ville.
 
 Si un projet libre est approuvé, cette permission sera applicable à
 toutes contributions futures.
@@ -75,9 +74,9 @@ toutes contributions futures.
 La permission globale sera permanente, à moins d’un changement majeur
 de la réalité du projet libre qui contreviendrait aux valeurs de la Ville.
 
-Un fichier est maintenu répertoriant les projets ayant obtenu une
-permission globale de contribution. Ce fichier fait partie de ce dépôt sous
-le répertoire `Approbations`.
+Il est possible de déterminer si un projet est déjà approuvé en vérifiant
+si un *fork* du projet existe déjà dans l'organisation GitHub der
+la [VilleDeMontreal](https://github.com/VilledeMontreal).
 
 ## Propriété intellectuelle
 Toutes modifications apportées à un projet libre par un employé ou un
@@ -118,20 +117,12 @@ utilisant une adresse courriel personnelle.
 ### Droits de contribution
 Dans tous les cas de contributions, et même si ce n’est pas explicitement
 requis par le projet libre en question, le contributeur doit s’assurer que
-la Ville de Montréal possède les droits vis-à-vis de toutes les modifications.
-Pour cela, le contributeur doit confirmer que:
-
-  1. **la contribution a été rédigée en tout ou en partie par le contributeur
-  et qu’il/elle a les droits de publier la contribution sous la licence libre
-  requise**;<br>
-  ***OU***
-  1. **la contribution a été fournie au contributeur par une autre personne
-  qui certifie la clause #1, et que cette contribution n’a pas été modifiée
-  depuis.**
+la Ville de Montréal possède les droits vis-à-vis toutes les modifications.
+Pour cela, le contributeur doit confirmer **qu’il a les droits de publier
+la contribution sous la licence libre requise**.
 
 Si le projet requiert un contrat de licence du contributeur (*CLA*), ce dernier
-devra être signé par la personne concernée.  Dans la majorité des cas, le *CLA*
-devra être signé par le directeur des STI.
+devra être signé par le directeur du Service des TI.
 
 **La validation et l’approbation du *CLA* doivent être incluses à la permission
 de contribution décrite plus haut.**
@@ -147,29 +138,20 @@ doivent être incluses à la permission de contribution décrite plus haut.**
 
 ## Licence
 Tout nouveau fichier à contribuer devra utiliser la licence requise par le
-projet en question.  La licence est souvent incluse au haut du fichier dans
+projet en question. La licence est souvent incluse au haut du fichier dans
 le cas de fichiers texte, mais cela peut dépendre du projet en question.
 
 Une licence différente est souvent requise pour les composantes de nature
 non logicielles ou non matérielles, telles les images, la documentation, les
-bases de données.  La licence à utiliser sera celle déjà sélectionnée par le
-projet pour le type de composante en question; si le choix de cette licence
-n’a pas encore été fait par le projet, il devra être fait par un des
-responsables du projet.
+bases de données. La licence à utiliser sera celle sélectionnée par le
+projet pour le type de composante en question.
 
 ## Information sensible
 Toute contribution doit respecter la Loi sur la protection des renseignements
-personnels du Québec; ne pas nuire à la protection de la vie privée, à la
-sécurité publique ou à la sécurité de l’information de la Ville de Montréal.
-
-Il est de la responsabilité du contributeur de s’assurer que sa contribution
-ne contient pas ce type d’information.
-
-Une liste non-exhaustive d’exceptions est fournie:
-
-- ***À REMPLIR***
+personnels du Québec et ne pas nuire à la protection de la vie privée.
 
 ## Code de conduite
+
 Les contributions faites au nom de la Ville de Montréal affectent
 potentiellement la réputation de la Ville. Il est important de protéger
 cette réputation pour préserver l’image de la Ville.
@@ -191,13 +173,26 @@ Pour cela:
   technique.  Une revue de la contribution par des pairs, avant sa soumission au
   projet, est recommandée afin d’assurer la qualité de la contribution.
 
-## Application de la directive
-Les étapes à suivre pour faire une contribution à un projet existants sont:
+Le [Code de Conduite](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+des employés de la Ville de Montréal s'applique à toutes interactions relatives aux projets libres.
 
+## Application de la directive
+Les étapes à suivre pour faire une contribution à un projet existants sont illustrées dans
+[ce diagramme](https://www.lucidchart.com/publicSegments/view/5790e4bb-e4d7-46d2-99ea-5412cad7dad6).
+
+Le processus complet est détaillé par les étapes suivantes :
 1. Identifier un besoin de contribution à un projet libre.
 1. Vérifier si le projet est déjà approuvé pour des contributions de la Ville
-ou débuter le processus d’approbation, incluant la signature du *CLA* si
-nécessaire;
+ou débuter le processus d’approbation :
+    1. Envoyer conjointement avec un Architecte de solutions une demande au Comité du libre à l'adresse courriel du comité (libre@ville.montreal.qc.ca) contenant les informations suivantes :
+        * Le projet faisant l'objet d'une contribution
+            * Le lien officiel du dépot du projet
+            * La license libre utilisée par le projet
+            * Si un CLA (Contributor License Agreement) doit être signé pour contribuer au projet
+        * Le projet Ville auquel la contribution est reliée
+        * La nature de la contribution (nouvelle fonctionnalité, correction de bogues, documentation, etc.)
+        * Toute information jugée pertinente
+
 1. Se familiariser avec le processus de contribution du projet:
     1. Lire le document README et CONTRIBUTING du projet, si présents, afin de
 comprendre le processus de contribution;
@@ -220,7 +215,7 @@ complétées.
 
 <a id='english-version' class='anchor' aria-hidden='true'/>
 
-# Directive on Contributing to an Existing Open-Source Project
+# Directive on Contributing to an Open-Source Project
 
 ## Introduction
 
@@ -228,7 +223,7 @@ Under its open-source software/hardware development and usage policy, the Ville 
 Montréal may contribute to existing open-source projects. Such contributions respond to
 two key goals:
 1. Eliminating bugs, to permit better use by the City and community.
-1. Adding project features, to meet municipal and community needs.
+1. Adding product features, to meet municipal and community needs.
 
 This document outlines the procedure for contributing to an existing open-source project.
 
@@ -244,7 +239,7 @@ contributions to existing open-source projects for the City.
 ## Definitions
 
 **Contributor License Agreement/CLA**: Agreement between a contributor and the legal
-entity overseeing an open-source project, permitting contributions to the project’s
+entity overseeing an open-source project permitting contributions to the project’s
 intellectual property.
 
 **Contributor**: Person contributing to an open-source project.
@@ -265,7 +260,7 @@ any physical object) that have been made public so that anyone can manufacture,
 modify, distribute or use such artifacts.
 
 **Intellectual property**: Legal rights to intellectual creations, such as hardware plans
-or software.
+or software artifacts.
 
 **Maintainer**: Person responsible for performing any operation considered necessary to
 ensure the proper operation of an open-source software or hardware project, according to
@@ -276,8 +271,8 @@ established specifications.
 Open-source projects to which the Ville de Montréal contributes must comply with the
 City’s principles of integrity, respect and loyalty.
 
-**Global permission must be obtained** from the City’s director of IT services or the
-latter’s delegate, before making an initial contribution to an open-source project, to
+**Global permission must be obtained** from the Open-Source Committee
+before making an initial contribution to an open-source project, to
 ensure that the project is consistent with municipal values.
 
 If an open-source project is approved, such permission will extend to all future
@@ -286,9 +281,8 @@ contributions.
 Global permission is permanent, unless there is a major change that brings the project
 into conflict with municipal values.
 
-The City maintains a list of the projects that have received a global permission for
-contributions. This list is part of this repository and can be found in the `Approbations`
-folder.
+One can determine if a projet has already been approved for contributions by looking
+if a fork of the project exists in the GitHub organization [VilleDeMontreal](https://github.com/VilledeMontreal).
 
 ## Intellectual Property
 
@@ -323,17 +317,12 @@ All individual contributions must be made using a personal email address.
 ### Contribution Rights
 
 For all contributions, even where not explicitly required by the open-source project concerned,
-the contributor must ensure that the City holds the rights to any changes. The contributor
-does so by confirming that:
+the contributor must ensure that the City holds the intellectual rights to any changes. The
+contributor does so by confirming that ** he has the rights to publish the contribution under
+the required open-source licence**.
 
-  1. **The contribution was written in whole or part by the contributor who holds the rights
-  to publish the contribution under the required open-source licence.**;<br>
-  ***OR***
-  1. **The contribution was provided to the contributor by another person who certifies
-  compliance with Clause #1, and that this contribution has not been altered subsequently.**
-
-If the project requires a contributor licence agreement (CLA), it must be signed by the person
-concerned. In most cases, the CLA must be signed by the director of IT.
+If the project requires a contributor licence agreement (CLA), it must be signed by
+the director of IT.
 
 **CLA validation and approval must be included in the contribution permission described above.**
 
@@ -354,20 +343,11 @@ by project.
 
 A different licence is often required for components other than software or hardware, such as
 images, documentation and databases. The licence to be used will be the kind already selected
-by the project for the type of component concerned. One of the project supervisors must select
-the licence type if this has not already been done by the project.
+by the project for the type of component concerned.
 
 ## Sensitive Information
 
-All contributions must comply with Québec’s Privacy Act, and must not jeopardize privacy, public
-safety or the security of the information of the Ville de Montréal.
-
-Contributors are responsible for ensuring that their contributions do not contain such
-information.
-
-A partial list of exceptions follows:
-
-- ***TO BE PROVIDED***
+All contributions must comply with Québec’s Privacy Act, and must not jeopardize privacy.
 
 ## Code of Conduct
 
@@ -391,13 +371,27 @@ of the other parties’ attitude.
 contribution, prior to its submission to the project, is recommended to ensure the
 contribution’s quality.
 
+The City employees'
+[Code of conduct](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+applies to all interactions pertaining to open source projects.
+
 ## Application of Directive
 
-The steps involved in contributing to an existing project are:
+The steps involved in contributing to an existing project are shown in
+[this diagram](https://www.lucidchart.com/publicSegments/view/5790e4bb-e4d7-46d2-99ea-5412cad7dad6).
 
+The complete process is detailed below:
 1. Identifying a need for a contribution to an open-source project.
 1. Checking if the project has already been approved for municipal contributions
-or initiate the approval process and obtain the CLA’s signature, if necessary.
+or initiate the approval process:
+    1. Jointly with a Solutions Architect, send a request to the Open-Source Committee at libre@ville.montreal.qc.ca with the following information:
+        * The open-source project for which the contribution will be made
+            * URL of the project
+            * Licence used by the project
+            * If a CLA must be signed to contribute to the project
+        * The City project associated with the contribution
+        * The type of contribution (new functionality, bug fix, documentation, etc) 
+        * Any other relevant information
 1. Acquainting yourself with the project contribution process:
     1. Reading the project’s README and CONTRIBUTING documents, if available, to
 understand the contribution process.
