@@ -211,12 +211,6 @@ open-source soft- and hardware projects on behalf of the city.
 
 ## Definitions
 
-**Contributor License Agreement—CLA**: Agreement between a contributor and the
-legal entity overseeing an open-source project, permitting a contribution to the
-project’s intellectual property.
-
-**Contributor**: Person contributing to an open-source project.
-
 **Contribution**: Any change in code, documentation, configuration files, plans
 or any other files of an open-source project, to be included in the project concerned.
 
@@ -296,7 +290,6 @@ databases (see Appendix A).
 
 Open-source publication of a project must comply with Québec’s Privacy Act,
 and must not jeopardize privacy.
-security.
 
 ## Code of Conduct
 
@@ -308,8 +301,7 @@ of the City employees applies to all interactions pertaining to open source proj
 This is how to make open-access publication of a municipal project:
 
 1. Confirm that there is a desire to make open-access publication of a project.
-1. The solutions architect prepares the file required for approval and submits
-it to an IT director or the latter’s delegate.
+1. The solutions architect of the project presents the request to the Open-Source Committee.
 1. Once permission has been obtained, the solutions architect designates the
 project maintainer in charge of publication.
 1. The project maintainer responsible for publication prepares the code. In
@@ -317,7 +309,6 @@ particular, s/he must:
     1. Add the LICENSE and CONTRIBUTING.md files.
     1. Remove all private information.
     1. Make sure the city possesses all of the project’s intellectual property.
-    1. Select a CLA tool/process.
 1. Once the project’s code is ready, the project maintainer publishes it in
 github.com/villedemontreal
 1. The project maintainer(s) ensure(s) maintenance of the open-source project
