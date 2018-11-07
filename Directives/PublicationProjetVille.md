@@ -119,8 +119,9 @@ relatives au maintien du projet libre.
 
 ## Application de la directive
 
-Les étapes à suivre pour faire une publication libre d’un projet de la Ville sont:
+Les étapes à suivre pour faire une publication libre d’un projet de la Ville sont illustrées dans [ce diagramme](https://www.lucidchart.com/documents/view/ce501f7d-1c88-48e4-a2f8-08dd782e6742).
 
+Le processus complet est détaillé par les étapes suivantes :
 1. Identifier une volonté de publication d’un projet en libre.
 1. L’architecte de solutions du projet présente la demande au Comité du Libre
 1. Lorsque la permission est obtenue, l’architecte de solutions désigne le responsable du
@@ -298,8 +299,9 @@ of the City employees applies to all interactions pertaining to open source proj
 
 ## Application of Directive
 
-This is how to make open-access publication of a municipal project:
+The process of publication of a municipal project is illustrated in [this diagram](https://www.lucidchart.com/documents/view/ce501f7d-1c88-48e4-a2f8-08dd782e6742).
 
+The complete process is detailed below:
 1. Confirm that there is a desire to make open-access publication of a project.
 1. The solutions architect of the project presents the request to the Open-Source Committee.
 1. Once permission has been obtained, the solutions architect designates the
