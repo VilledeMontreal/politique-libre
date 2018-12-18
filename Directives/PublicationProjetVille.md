@@ -14,7 +14,7 @@ de publier un tel projet et de le maintenir.
 
 Cette directive s’adresse à l’ensemble des unités administratives de la
 Ville de Montréal susceptibles d’avoir à publier des projets logiciels
-ou matériels en tant que projet libres.
+ou matériels en tant que projets libres.
 
 Cette directive s’applique autant aux employés de la Ville qu’à ses
 contractants ou aux tierces parties appelées à publier des projets
@@ -52,10 +52,10 @@ dispositifs ou toutes choses physiques) ayant été rendus publics de façon
 artéfacts.
 
 **Propriété intellectuelle**: Droits légaux quant à des créations
-intellectuelles par exemple un logiciel ou des plans de matériels.
+intellectuelles tel que des artéfacts logiciels ou des plans de matériels.
 
-**Publication libre**: Les efforts et étapes initiaux nécessaires
-à rendre un projet logiciel ou matériel disponible au grand public.
+**Publication libre**: Action de rendre un projet logiciel ou 
+matériel disponible au grand public.
 
 **Responsable du projet (*Maintainer*)**: Personne responsable de
 l'exécution de l'ensemble des opérations qui sont jugées nécessaires
@@ -77,18 +77,45 @@ d’un dossier contenant au minimum les éléments suivants :
 1. la vigie de marché démontrant le manque à combler s’il y a lieu,
 ou les avantages de créer un marché ouvert parallèle;
 1. les risques potentiels,
-1. les coûts à prévoir (nombre d’employés affectés aux projet,
+1. les coûts à prévoir (nombre d’employés affectés au projet,
 tâches requises pour le maintien du projet après sa publication,
 estimation de la durée de la participation, etc.).
 
-## Publication
+Une consultation du Comité du Libre est la façon d'entamer la
+publication du projet.
+
+## Gestion d'un projet publié en libre
+
+### Responsable du projet libre
+
+Avant la publication, un ou plusieurs responsables du projet libre
+doivent être désignés.
+Un responsable devrait normalement avoir une connaissance des détails
+du projet et pourra en gérer le code et autres aspects. Le role d’un
+responsable est d'accompagner le projet dans son évolution
+en libre afin que la Ville puisse bénéficier des avantages de la
+publication.
+
+Il est recommandé de désigner plus d’un responsable afin d’assurer le
+maintien du projet.
+
+Durant la vie du projet, de nouveaux responsables peuvent être nommés
+après qu’ils aient démontré les compétences nécessaires pour assurer ce rôle.  Une
+telle nomination doit être appuyée par au moins un responsable existant,
+sans être refusée par aucun autre responsable du projet.  Après une
+nomination approuvée, un nouveau responsable se verra accorder les mêmes
+droits que les responsables existants. Une personne mise en nomination en
+tant que responsable, peut aussi bien être associée à la Ville qu’être un
+contributeur externe, sans aucune association à la Ville.
+
+Un responsable du projet peut en tout temps abandonner officiellement son
+rôle.  Dans un tel cas, il convient d’avertir le reste de la communauté du
+projet, et d’assurer une transition de responsabilité, si nécessaire.
 
 ### Propriété intellectuelle
 
 Afin de pouvoir publier librement un projet logiciel au nom de la
-Ville, un responsable du projet doit s’assurer que la Ville détient
-les droits légaux nécessaires à une telle publication.  Pour cela,
-le responsable du projet doit:
+Ville, un responsable du projet doit:
 1. s’assurer que tout fichier faisant partie de la publication est,
 de façon exclusive, la propriété intellectuelle de la Ville;<br>
 ou,
@@ -103,61 +130,21 @@ Lorsqu’un projet devient disponible en tant que projet libre, toutes
 contributions futures sont régies par la Directive de contribution à
 un projet logiciel existant.
 
-### Forge de logiciels libres
+### Publication initiale
 
-La publication de projet sera faite dans GitHub sous le compte de la 
+La publication initiale du projet sera faite dans GitHub sous le compte de la
 Ville: github.com/villedemontreal
 
-### Responsables du projet
+La publication initiale sera faite par un des responsables du projet.
 
-Avant la publication, un ou plusieurs responsables du projet doivent
-être désignés.  Un responsable devrait normalement avoir une connaissance
-approfondie des détails du projet et pourra en gérer le code et autres
-aspects.  Le mandat d’un responsable du projet est d’assurer l’évolution
-du projet afin que la Ville puisse bénéficier des avantages de la
-publication en libre.
+### Licences
 
-Il est recommandé de désigner plus d’un responsable afin d’assurer le
-maintien du projet.
-
-Durant la vie du projet, de nouveaux responsables peuvent être nommés
-après qu’ils aient démontré les compétences nécessaires pour assurer ce rôle.  Une
-telle nomination doit être appuyée par au moins un responsable existant,
-sans être refusée par aucun autre responsable du projet.  Après une
-nomination approuvée, un nouveau responsable se verra accorder les mêmes
-droits que les responsables existants. Une personne mise en nomination en
-tant que responsable, peut aussi bien être associée à la Ville qu’être un
-contributeur externe, sans aucune association à la Ville.  
-
-Un responsable du projet peut en tout temps abandonner officiellement son
-rôle.  Dans un tel cas, il convient d’avertir le reste de la communauté du
-projet, et d’assurer une transition de responsabilité, si nécessaire.
-
-### Identité à utiliser pour la publication
-
-La publication libre d’un projet sera faite par un des responsables du
-projet qui a été assigné.  Cette publication doit être faite en utilisant
-le nom dudit responsable ainsi que son adresse courriel fournie par la Ville.
-Toutes modifications faites au nom de la Ville, après la publication du projet,
-doivent aussi être faites en utilisant l’adresse courriel fournie par la Ville.
-
-L’utilisation de l’adresse courriel de la Ville permet de distinguer les
-contributions faites au nom de la Ville et de celles réalisées en dehors des
-heures de travail (non rémunérées par la Ville).
-
-Toutes contributions pour lesquelles la Ville possède la propriété intellectuelle
-doivent être faites par un employé ou un contractant à l’emploi de la Ville.
-
-Toutes contributions faites de façon personnelle doivent être faites en utilisant
-une adresse courriel personnelle.
-
-### Licence
-Tout code du projet publié en libre utilisera la licence MIT. Un ficher LICENSE.md
-tel que définit dans l’appendice A, doit être mis dans le répertoire de base du
+Tout code du projet publié en libre utilisera la licence *MIT*. Un ficher LICENSE
+tel que défini dans l’appendice A, doit être mis dans le répertoire de base du
 projet, et ce, dès la publication initiale.
 
 Pour les autres composantes du projet, tel les images et la documentation, une des
-licences Creative Commons sera utilisée.
+licences *Creative Commons* sera utilisée.
 
 Pour les bases de données, la licence *Open Data Commons Open Database License (ODbL)*
 sera utilisée (voir l’appendice A).
@@ -165,15 +152,11 @@ sera utilisée (voir l’appendice A).
 ### Information sensible
 
 Une publication libre d’un projet doit respecter la Loi sur la protection des
-renseignements personnels du Québec; ne pas nuire à la protection de la vie privée
+renseignements personnels du Québec et ne pas nuire à la protection de la vie privée,
 à la sécurité publique ou à la sécurité de l’information de la Ville de Montréal.
 
 Il est de la responsabilité du responsable de projet faisant la publication de
 s’assurer que le projet à publier ne contient pas ce type d’information.
-
-Une liste non-exhaustive d’exceptions est fournie:
-
-- ***À REMPLIR***
 
 ## Contributions
 
@@ -184,6 +167,18 @@ contributions doivent être gérées de façon adéquate.
 
 Il est de la responsabilité d’un responsable du projet de gérer et d’accepter ou
 refuser une contribution.
+
+### Identité à utiliser pour contributions
+
+Toutes contributions pour lesquelles la Ville possède la propriété intellectuelle
+doivent être faites par un employé ou un contractant à l’emploi de la Ville.
+
+Toutes contributions faites au nom de la Ville, après la publication du projet,
+doivent être faites en utilisant une adresse courriel fournie par la Ville, dans
+les commits Git.
+
+Toutes contributions faites par un employé de la Ville mais de façon personnelle
+doivent être faites en utilisant une adresse courriel personnelle dans les commits Git.
 
 ### Bonnes pratiques pour contributions
 
@@ -200,7 +195,7 @@ servir d’inspiration:
 ### Licence
 
 Chaque composante faisant partie d’une contribution devra utiliser la licence appropriée
-comme définie plus haut. 
+comme définie plus haut.
 
 ### Contrat de licence du contributeur (*Contributor License Agreement - CLA*)
 Dans tous les cas de contributions, un responsable du projet doit s’assurer que la personne
@@ -225,7 +220,7 @@ afin de gérer les contributions au projet.  Différentes solutions encadrant la
 ### Droits d’auteurs
 
 Les droits d’auteurs pour chaque contribution resteront avec l’auteur original de la
-contribution. 
+contribution.
 
 ### Contributions par un responsable du projet
 
@@ -244,26 +239,26 @@ une contribution, il est de la responsabilité du responsable du projet de s’a
 
 ## Code de conduite
 
-Le maintien de projets libres au nom de la Ville de Montréal affecte potentiellement la
-réputation de la Ville. Il est important de protéger cette réputation pour préserver
-l’image de la Ville. Dans cette optique, toutes interactions avec une communauté libre,
-tant sur les canaux publics (forums, listes de courriels, appels téléphoniques ouverts,
-etc.), qu’en privé (face à face, appels téléphoniques privés, courriels directs, etc.)
-doivent être faites de façon professionnelle, polie et respectueuse, peu importe
-l’attitude des autres parties.
+Le [Code de Conduite](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+des employés de la Ville de Montréal s'applique à toutes interactions
+relatives au maintien du projet libre.
 
 ## Application de la directive
 
-Les étapes à suivre pour faire une publication libre d’un projet de la Ville sont:
+Les étapes à suivre pour faire une publication libre d’un projet de la Ville sont illustrées dans
+[ce diagramme](https://www.lucidchart.com/documents/view/ce501f7d-1c88-48e4-a2f8-08dd782e6742).
 
-1. Identifier une volonté de publication d’un projet en libre.
-1. L’architecte de solutions rédige le dossier nécessaire à l’approbation et le présente
-à un directeur du STI, ou à son délégué.
+Le processus complet est détaillé par les étapes suivantes :
+1. Identifier une volonté de publication d’un projet en libre;
+1. L’architecte de solutions du projet rédige le dossier nécessaire à l’approbation et le présente
+au Comité du Libre;
+1. Le Comité du Libre accompagne l'architecte de solutions dans sa demande d'approbation
+au directeur du service des TI ou de son délégué;
 1. Lorsque la permission est obtenue, l’architecte de solutions désigne le responsable du
 projet chargé de la publication.
 1. Le responsable du projet chargé de la publication prépare le code.  En particulier il
 doit:
-    1. Ajouter les fichiers LICENSE.md et CONTRIBUTING.md;
+    1. Ajouter les fichiers LICENSE et CONTRIBUTING.md;
     1. Enlever toute information privée;
     1. S’assurer que la Ville détient toute la propriété intellectuelle du projet;
     1. Choisir un outil/processus de *CLA*.
@@ -276,7 +271,7 @@ toutes contributions.
 
 ### Licence MIT globale
 
-Ajoutez le fichier LICENSE.md dans le le répertoire principal du projet avec le contenu suivant:
+Ajoutez le fichier LICENSE dans le le répertoire principal du projet avec le contenu suivant:
 (en ayant remplacé <YEAR> par l’année de publication):
 
 ```
@@ -308,7 +303,7 @@ des commentaires.
 ```
 // Copyright (c) Ville de Montreal. All rights reserved.
 // Licensed under the MIT license.
-// See LICENSE.md file in the project root for full license information.
+// See LICENSE file in the project root for full license information.
 ```
 
 ### Licence ODbL
@@ -374,9 +369,9 @@ and all physical objects) that have been made public so that anyone can manufact
 modify, distribute or use them.
 
 **Intellectual property**: Legal rights to intellectual creations, such as software
-or plans for hardware.
+artifacts or plans for hardware.
 
-**Open-access publication**: Efforts and initial steps required to make an
+**Open-access publication**: Action of making an
 open-source software or hardware available to the general public.
 
 **Maintainer**: Person responsible for performing all operations considered
@@ -388,7 +383,7 @@ project, according to established specifications.
 Benefits, risks and costs must be determined before open-access publication of an
 open-source soft- or hardware project. Once the business unit decides that
 open-access project publication is appropriate, permission must be obtained from
-city’s IT director or the latter’s delegate. This permission is intended to ensure
+city’s IT director or his delegate. This permission is intended to ensure
 that the benefits of open-access publication are consistent with municipal values.
 
 Such permission shall be obtained following submission and acceptance of a file
@@ -400,36 +395,18 @@ a parallel open market.
 1. Estimated costs (number of employees assigned to project, tasks required to
 maintain project following publication, estimated period of participation, etc.).
 
-## Publication
+Contacting the Open-Source Committee is the way to start the process of
+publication of the project.
 
-### Intellectual property
+### Management of a published project
 
-A project maintainer must ensure that the city holds the legal rights for
-open-access publication of a software project on behalf of the city, before such
-publication occurs. The project maintainer does so by:
-1. Ensuring that any files that is to be part of the publication is exclusively
-the city’s intellectual property.<br>
-or
-1. Ensuring that the city holds the necessary rights to publish all files to be
-included in the publication under the open-source licence concerned (see the
-Licence section).
-Open-source publication of the project is done on behalf of city to the public
-repository specified by IT.
-If a project is accepted as open source, all future contributions to it are
-covered by the Directive on Contributions to an Existing Software Project.
-
-### Open-Source Software Registry
-
-The project will be published in GitHub under the city’s account at
-github.com/villedemontreal
-
-### Project Maintainers
+### Open-Source Project Maintainers
 
 One or more project maintainers must be designated prior to publication.
 A maintainers should usually have an in-depth understanding of the project
 and will be able to oversee its coding and other features. The project
-maintainer is responsible for managing project development and ensuring
-that the city can benefit from open-access publication.
+maintainer is responsible for managing project evolution to ensure
+that the city can benefit from open-source publication.
 
 We recommend naming more than one maintainer to ensure maintenance of the project.
 
@@ -445,32 +422,39 @@ A project maintainer may abandon this role at any time. Under such circumstances
 s/he advises the rest of the community to ensure a transition of responsibility,
 if necessary.
 
-### Identity to Use for Publication
+### Intellectual property
 
-One of the assigned project maintainers will handle open-access publication of
-the project. This publication must be performed using the maintainer’s name and
-city email address. Any changes made on behalf of the city following project
-publication must also use the city email address.
+Before making an open-source plublication, a project maintainer must:
+1. Ensuring that any files that is to be part of the publication is exclusively
+the city’s intellectual property.<br>
+or
+1. Ensuring that the city holds the necessary rights to publish all files to be
+included in the publication under the open-source licence concerned (see the
+Licence section).
 
-Using a city email address makes it possible to distinguish between
-contributions made on behalf of the city from those made outside working hours
-(not paid by the city).
+Open-source publication of the project is done on behalf of city to the public
+repository specified by IT.
 
-All contributions for which the city owns the intellectual property must be
-made by an employee or contractor working for the city.
+If a project is accepted as open source, all future contributions to it are
+covered by the Directive on Contributions to an Existing Software Project.
 
-All individual contributions must be made using a personal email address.
+### Initial publication
 
-### Licence
+The project will be published in GitHub under the city’s account at
+github.com/villedemontreal
 
-Any project code published will use the MIT license. A LICENSE.md file, as
+The initial publication will be done by a projet maintainer.
+
+### Licences
+
+Any project code published will use the *MIT* license. A LICENSE file, as
 defined in Appendix A, must be saved to the project’s base folder following
 initial publication.
 
-A Creative Commons license will be used for other project components, such
+A *Creative Commons* license will be used for other project components, such
 as images and documentation.
 
-The Open Data Commons Open Database License (ODbL) will be used for
+The *Open Data Commons Open Database License (ODbL)* will be used for
 databases (see Appendix A).
 
 ### Sensitive Information
@@ -482,10 +466,6 @@ security.
 The project maintainer is responsible for ensuring that the project to be
 published does not contain such information.
 
-A partial list of exceptions follows:
-
-- ***TO BE PROVIDED***
-
 ## Contributions
 
 An open-source project is expected to evolve following its publication.
@@ -495,6 +475,17 @@ contributions must be properly administered.
 
 A project maintainer is responsible for overseeing, accepting and refusing
 contributions.
+
+### Identity to Use for Publication
+
+All contributions for which the city owns the intellectual property must be
+made by an employee or contractor working for the city.
+
+All contributions made on behalf of the city, after the publication of the
+project, must be made using a city-provided email address in the Git commits.
+
+All personal contributions made by a city employee must be made using a
+personal email address in the Git commits.
 
 ### Best Practices for Contributions
 
@@ -552,25 +543,25 @@ maintainer must ensure that:
 
 ## Code of Conduct
 
-Maintenance of open-source projects on behalf of the city have a potential impact
-on Montréal’s reputation, which must be protected to preserve the city’s image.
-This means that all interactions with an open-source community whether through
-public (forums, email lists, open phone calls, etc.) or private (face-to-face,
-private phone calls, direct emails, etc.) channels must be professional, polite
-and respectful, regardless of the other parties’ attitudes.
+The [Code of conduct](http://ville.montreal.qc.ca/pls/portal/docs/page/intra_fr/media/documents/code_conduite_employes.pdf)
+of the City employees applies to all interactions pertaining to open source projects.
 
 ## Application of Directive
 
-This is how to make open-access publication of a municipal project:
+The process of publication of a municipal project is illustrated in
+[this diagram](https://www.lucidchart.com/documents/view/ce501f7d-1c88-48e4-a2f8-08dd782e6742).
 
-1. Confirm that there is a desire to make open-access publication of a project.
-1. The solutions architect prepares the file required for approval and submits
-it to an IT director or the latter’s delegate.
+The complete process is detailed below:
+1. Identify a desire to make an open-source publication of a project.
+1. The solutions architect of the project prepares the file required for approval
+and presents the request to the Open-Source Committee.
+1. The Open-Source Committee works with the solutions architect in the approval
+request made to the IT director or his delegate.
 1. Once permission has been obtained, the solutions architect designates the
 project maintainer in charge of publication.
 1. The project maintainer responsible for publication prepares the code. In
-particular, s/he must:
-    1. Add the LICENSE.md and CONTRIBUTING.md files.
+particular, he must:
+    1. Add the LICENSE and CONTRIBUTING.md files.
     1. Remove all private information.
     1. Make sure the city possesses all of the project’s intellectual property.
     1. Select a CLA tool/process.
@@ -583,7 +574,7 @@ and administers all contributions.
 
 ### Global MIT License
 
-Add the file LICENSE.md to the project’s main folder, using the following
+Add the file LICENSE to the project’s main folder, using the following
 content (inserting the year of publication):
 
 ```
@@ -614,7 +605,7 @@ on the programming languages, “//” should be replaced by the appropriate com
 ```
 // Copyright (c) Ville de Montreal. All rights reserved.
 // Licensed under the MIT license.
-// See LICENSE.md file in the project root for full license information.
+// See LICENSE file in the project root for full license information.
 ```
 
 ### ODbL License
