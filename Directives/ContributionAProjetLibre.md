@@ -75,7 +75,7 @@ La permission globale sera permanente, à moins d’un changement majeur
 de la réalité du projet libre qui contreviendrait aux valeurs de la Ville.
 
 Il est possible de déterminer si un projet est déjà approuvé en vérifiant
-si un *fork* du projet existe déjà dans l'organisation GitHub der
+si un *fork* du projet existe déjà dans l'organisation GitHub de
 la [VilleDeMontreal](https://github.com/VilledeMontreal).
 
 ## Propriété intellectuelle
@@ -148,7 +148,11 @@ projet pour le type de composante en question.
 
 ## Information sensible
 Toute contribution doit respecter la Loi sur la protection des renseignements
-personnels du Québec et ne pas nuire à la protection de la vie privée.
+personnels du Québec et ne pas nuire à la protection de la vie privée,
+à la sécurité publique ou à la sécurité de l’information de la Ville de Montréal.
+
+Il est de la responsabilité du contributeur de s’assurer que sa contribution
+ne contient pas ce type d’information.
 
 ## Code de conduite
 
@@ -347,7 +351,11 @@ by the project for the type of component concerned.
 
 ## Sensitive Information
 
-All contributions must comply with Québec’s Privacy Act, and must not jeopardize privacy.
+All contributions must comply with Québec’s Privacy Act, and must not jeopardize privacy,
+public safety or the security of the information of the Ville de Montréal.
+
+Contributors are responsible for ensuring that their contributions do not contain such
+information.
 
 ## Code of Conduct
 
