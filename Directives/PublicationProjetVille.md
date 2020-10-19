@@ -22,9 +22,9 @@ logiciels ou matériels au nom de la Ville, en tant que projets libres.
 
 ## Définitions
 **Certificat d'origine du développeur *(Developer Certificate of Origin)*
-(*DCO*)**: Le contributeur est autorisé à apporter sa contribution et 
-l’entité juridique gérant le projet libre a le droit de la distribuer 
-sous sa licence.
+(*[DCO](https://developercertificate.org)*)**: Accord entre un contributeur et l’entité juridique gérant un
+projet libre, permettant de contribuer de la propriété intellectuelle
+à cedit projet.
 
 **Contributeur**: Personne faisant une contribution à un projet libre.
 
@@ -66,7 +66,7 @@ libres, conformément à des spécifications définies.
 Afin de protéger les intérêts et les ressources de la Ville, il faut
 que les bénéfices, les risques et les coûts soient évalués avant la
 publication libre d’un projet logiciel ou matériel.  Lorsque l’unité
-d’affaires juge approprier la publication libre d’un projet, une
+d’affaires juge appropriée la publication libre d’un projet, une
 permission devra être obtenue du directeur du service des TI, ou de
 son délégué.  Cette permission vise à assurer que les bénéfices de
 la publication libre sont compatibles avec les valeurs de la Ville.
@@ -143,7 +143,7 @@ Tout code du projet publié en libre utilisera la licence *MIT*. Un ficher LICEN
 tel que défini dans l’appendice A, doit être mis dans le répertoire de base du
 projet, et ce, dès la publication initiale.
 
-Pour les autres composantes du projet, tel que les images et la documentation, une des
+Pour les autres composantes du projet, telles que les images et la documentation, une des
 licences *Creative Commons* sera utilisée.
 
 Pour les bases de données, la licence *Open Data Commons Open Database License (ODbL)*
@@ -210,11 +210,10 @@ modifications soumises.  Pour cela, le contributeur doit confirmer explicitement
   qui certifie la clause #1, et que cette contribution n’a pas été modifiée
   depuis.**
 
-L’utilisation d’un certificat d'origine du développeur  (*DCO*) par le projet est recommandée
-afin de gérer les contributions au projet.  Différentes solutions encadrant la gestion de
-*DCO* dans GitHub sont disponibles:
-* [dco](https://github.com/apps/dco) _(utilisé dans les projets libres à la Ville)_
-* [dco-check](https://github.com/marketplace/actions/dco-check)
+L’utilisation d’un certificat d'origine du développeur (*DCO*) par le projet est requise 
+pour chaque contribution. Différentes solutions encadrant la gestion de
+*DCO* dans GitHub sont disponibles. En date d’écriture nous recommandons 
+[dco](https://github.com/apps/dco).
 
 ### Droits d’auteurs
 
@@ -342,9 +341,9 @@ open-source soft- and hardware projects on behalf of the city.
 
 ## Definitions
 
-**Developer Certificate of Origin—DCO**: Agreement between a contributor and the
-legal entity, allowing the contributor to make the contribution and the project 
-has the right to distribute it under its license.
+**Developer Certificate of Origin—[DCO](https://developercertificate.org)**: Agreement between a contributor and the
+legal entity overseeing an open-source project, permitting a contribution to the
+project’s intellectual property.
 
 **Contributor**: Person contributing to an open-source project.
 
@@ -515,10 +514,9 @@ The contributor does so by specifically confirming that:
   certifies that clause #1 is true, and this contribution has not been subsequently
   altered.**
 
-We recommend that the project use a contributor licence agreement (DCO) to administer
-contributions to it. Various DCO management solutions may be found in GitHub:
-* [dco](https://github.com/apps/dco) _(used in open source projects at Montreal City)_
-* [dco-check](https://github.com/marketplace/actions/dco-check)
+The project must use a contributor licence agreement (DCO) for each contribution. 
+Various DCO management solutions may be found in GitHub. As of writing 
+we recommend [dco](https://github.com/apps/dco).
 
 ### Copyright
 
