@@ -514,7 +514,7 @@ The contributor does so by specifically confirming that:
   certifies that clause #1 is true, and this contribution has not been subsequently
   altered.**
 
-The project must use a contributor licence agreement (DCO) for each contribution. 
+The project must use the developer certificate of origin (DCO) for each contribution. 
 Various DCO management solutions may be found in GitHub. As of writing 
 we recommend [dco](https://github.com/apps/dco).
 
