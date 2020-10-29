@@ -21,8 +21,8 @@ contractants ou aux tierces parties appelées à publier des projets
 logiciels ou matériels au nom de la Ville, en tant que projets libres.
 
 ## Définitions
-**Contrat de licence du contributeur *(Contributor License Agreement)*
-(*CLA*)**: Accord entre un contributeur et l’entité juridique gérant un
+**Certificat d'origine du développeur *(Developer Certificate of Origin)*
+(*[DCO](https://developercertificate.org)*)**: Accord entre un contributeur et l’entité juridique gérant un
 projet libre, permettant de contribuer de la propriété intellectuelle
 à cedit projet.
 
@@ -39,7 +39,7 @@ logiciel ou matériel.
 **Maintien d’un projet libre**: Efforts nécessaires à garder un
 projet libre actif.  Ses efforts incluent: faire évoluer le code ou
 les plans du projet, documenter publiquement le projet, fournir un
-niveau de support utile mais raisonnable aux utilisateurs, réviser
+niveau de support utile, mais raisonnable aux utilisateurs, réviser
 et accepter des contributions, etc.
 
 **Projet logiciel libre**: Un programme ou une bibliothèque logicielle
@@ -52,7 +52,7 @@ dispositifs ou toutes choses physiques) ayant été rendus publics de façon
 artéfacts.
 
 **Propriété intellectuelle**: Droits légaux quant à des créations
-intellectuelles tel que des artéfacts logiciels ou des plans de matériels.
+intellectuelles telles que des artéfacts logiciels ou des plans de matériels.
 
 **Publication libre**: Action de rendre un projet logiciel ou 
 matériel disponible au grand public.
@@ -91,7 +91,7 @@ publication du projet.
 Avant la publication, un ou plusieurs responsables du projet libre
 doivent être désignés.
 Un responsable devrait normalement avoir une connaissance des détails
-du projet et pourra en gérer le code et autres aspects. Le role d’un
+du projet et pourra en gérer le code et autres aspects. Le rôle d’un
 responsable est d'accompagner le projet dans son évolution
 en libre afin que la Ville puisse bénéficier des avantages de la
 publication.
@@ -143,7 +143,7 @@ Tout code du projet publié en libre utilisera la licence *MIT*. Un ficher LICEN
 tel que défini dans l’appendice A, doit être mis dans le répertoire de base du
 projet, et ce, dès la publication initiale.
 
-Pour les autres composantes du projet, tel les images et la documentation, une des
+Pour les autres composantes du projet, telles que les images et la documentation, une des
 licences *Creative Commons* sera utilisée.
 
 Pour les bases de données, la licence *Open Data Commons Open Database License (ODbL)*
@@ -177,7 +177,7 @@ Toutes contributions faites au nom de la Ville, après la publication du projet,
 doivent être faites en utilisant une adresse courriel fournie par la Ville, dans
 les commits Git.
 
-Toutes contributions faites par un employé de la Ville mais de façon personnelle
+Toutes contributions faites par un employé de la Ville, mais de façon personnelle
 doivent être faites en utilisant une adresse courriel personnelle dans les commits Git.
 
 ### Bonnes pratiques pour contributions
@@ -197,7 +197,7 @@ servir d’inspiration:
 Chaque composante faisant partie d’une contribution devra utiliser la licence appropriée
 comme définie plus haut.
 
-### Contrat de licence du contributeur (*Contributor License Agreement - CLA*)
+### Certificat d'origine du développeur (*Developer Certificate of Origin - DCO*)
 Dans tous les cas de contributions, un responsable du projet doit s’assurer que la personne
 effectuant la contribution possède les droits nécessaires vis-à-vis de toutes les
 modifications soumises.  Pour cela, le contributeur doit confirmer explicitement que:
@@ -210,12 +210,10 @@ modifications soumises.  Pour cela, le contributeur doit confirmer explicitement
   qui certifie la clause #1, et que cette contribution n’a pas été modifiée
   depuis.**
 
-L’utilisation d’un contrat de licence du contributeur (*CLA*) par le projet est recommandée
-afin de gérer les contributions au projet.  Différentes solutions encadrant la gestion de
-*CLA* dans GitHub sont disponibles:
-* www.clahub.com/
-* cla-assistant.io/
-* clabot.github.io/
+L’utilisation d’un certificat d'origine du développeur (*DCO*) par le projet est requise 
+pour chaque contribution. Différentes solutions encadrant la gestion de
+*DCO* dans GitHub sont disponibles. En date d’écriture nous recommandons 
+[dco](https://github.com/apps/dco).
 
 ### Droits d’auteurs
 
@@ -224,7 +222,7 @@ contribution.
 
 ### Contributions par un responsable du projet
 
-Une modification faite par un responsable du projet et respectant le *CLA* peut être acceptée
+Une modification faite par un responsable du projet et respectant le *DCO* peut être acceptée
 sans plus de formalité.
 
 ### Contributions externes
@@ -233,7 +231,7 @@ Une contribution par une personne n’étant pas un responsable du projet est co
 “externe”, et ce, même si elle est faite par une personne associée à la Ville.  Toute
 contribution externe devra être approuvée par un responsable du projet.  Avant d’accepter
 une contribution, il est de la responsabilité du responsable du projet de s’assurer que:
-1. le *CLA* est respecté,
+1. le *DCO* est respecté,
 1. les licences sont publiées dans les fichiers nécessaires,
 1. la contribution est appropriée et de qualité suffisante.
 
@@ -261,7 +259,7 @@ doit:
     1. Ajouter les fichiers LICENSE et CONTRIBUTING.md;
     1. Enlever toute information privée;
     1. S’assurer que la Ville détient toute la propriété intellectuelle du projet;
-    1. Choisir un outil/processus de *CLA*.
+    1. Choisir un outil/processus de *DCO*.
 1. Lorsque le code du projet est prêt, le responsable du projet le publie sous
 github.com/villedemontreal
 1. Le ou les responsables du projet assurent le maintien du projet libre et gèrent
@@ -271,7 +269,7 @@ toutes contributions.
 
 ### Licence MIT globale
 
-Ajoutez le fichier LICENSE dans le le répertoire principal du projet avec le contenu suivant:
+Ajoutez le fichier LICENSE dans le répertoire principal du projet avec le contenu suivant:
 (en ayant remplacé <YEAR> par l’année de publication):
 
 ```
@@ -343,7 +341,7 @@ open-source soft- and hardware projects on behalf of the city.
 
 ## Definitions
 
-**Contributor License Agreement—CLA**: Agreement between a contributor and the
+**Developer Certificate of Origin—[DCO](https://developercertificate.org)**: Agreement between a contributor and the
 legal entity overseeing an open-source project, permitting a contribution to the
 project’s intellectual property.
 
@@ -503,7 +501,7 @@ maintainers. Existing CONTRIBUTING.md files may serve as sources of inspiration:
 Every component of a contribution must have the appropriate licence as defined
 above.
 
-### Contributor License Agreement—CLA
+### Developer Certificate of Origin—DCO
 
 A project maintainer must, in the case of all contributions, ensure that the
 person making them holds the necessary rights to make all the changes requested.
@@ -516,11 +514,9 @@ The contributor does so by specifically confirming that:
   certifies that clause #1 is true, and this contribution has not been subsequently
   altered.**
 
-We recommend that the project use a contributor licence agreement (CLA) to administer
-contributions to it. Various CLA management solutions may be found in GitHub:
-* www.clahub.com/
-* cla-assistant.io/
-* clabot.github.io/
+The project must use the developer certificate of origin (DCO) for each contribution. 
+Various DCO management solutions may be found in GitHub. As of writing 
+we recommend [dco](https://github.com/apps/dco).
 
 ### Copyright
 
@@ -528,7 +524,7 @@ The copyright for each contribution will remain with the contribution’s origin
 
 ### Contributions by a Project maintainer
 
-A change made by a project maintainer that complies with the CLA may be accepted
+A change made by a project maintainer that complies with the DCO may be accepted
 without other formalities.
 
 ### External Contributions
@@ -537,7 +533,7 @@ A contribution from someone other than a project maintainer is considered “ext
 even if made by a person associated with the city. All external contributions must
 be approved by a project maintainer. Before accepting a contribution, the project
 maintainer must ensure that:
-1. It complies with the CLA.
+1. It complies with the DCO.
 1. Licences have been published in the required files.
 1. The contribution is appropriate and of suitable quality.
 
@@ -564,7 +560,7 @@ particular, he must:
     1. Add the LICENSE and CONTRIBUTING.md files.
     1. Remove all private information.
     1. Make sure the city possesses all of the project’s intellectual property.
-    1. Select a CLA tool/process.
+    1. Select a DCO tool/process.
 1. Once the project’s code is ready, the project maintainer publishes it in
 github.com/villedemontreal
 1. The project maintainer(s) ensure(s) maintenance of the open-source project
