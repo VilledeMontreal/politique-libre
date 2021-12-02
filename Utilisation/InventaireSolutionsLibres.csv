@@ -1,88 +1,81 @@
 Nom de la solution,Nbre d'utilisateurs,Catégorie,Domaine d'activité,Direction d'affaires,Statut d'utilisation,"Date mise 
-en Prod",Dépôt GIT,Segment,Famille,Classe,Produit,Produit (nom)
-Accumulo,Moins de 50,Application,Gestion des données,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-AirBnb Knowledge Repo,Moins de 50,Partage des connaissances,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232200,43232202,Logiciels de gestion documentaire
-AirFlow,Moins de 50,Intégration de données ,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232200,43232201,Logiciels de gestion de flux de contenus
-AMEI,Plus de 100,Application mobile,Gestion des bâtiments,Solutions institutionnelles,En évolution,2017,Non,43000000,43231500,43231508,43231508,Logiciels de gestion des stocks
-Angular,Plus de 100,Cadriciel,Développement,Général,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Ansible,Moins de 50,Plateforme applicative,Gestion applicative,Infras et Plateformes,En production,2017,Non,43000000,43230000,43230000,43232701,Logiciels serveur d'applications
-Avis et alertes,Plus de 1000,Service numérique,"Gestion des relations 
-avec les clientèles",Solutions Numériques,En production,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-Bokeh,Moins de 50,Visualisation,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232100,43232102,Logiciels dimagerie ou logiciels graphiques
-Camunda,Moins de 50,Logiciel de flux de travail,Développement applicatif,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232200,43232201,Logiciels de gestion de flux de contenus
-Cassandra,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Debezium,Moins de 50,Gestion incrementale des données ,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Demande de service en ligne,Plus de 1000,Service numérique,"Gestion des relations 
-avec les clientèles",Solutions Numériques,En production,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-Docker,Moins de 50,Conteneur,Gestion applicative,Infras et Plateformes,En production,2015,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
+en Prod"
+Accumulo,Moins de 50,Application,Gestion des données,Intelligence d'affaires,En déploiement,2019
+AirFlow,Moins de 50,Intégration de données ,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017
+Angular,Plus de 100,Cadriciel,Développement,Général,En production,2017
+Ansible,Moins de 50,Plateforme applicative,Gestion applicative,Infras et Plateformes,En production,2017
+Bokeh,Moins de 50,Visualisation,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017
+Camunda,Moins de 50,Logiciel de flux de travail,Développement applicatif,Infras et Plateformes,En production,2017
+Cassandra,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En production,2017
+Debezium,Moins de 50,Gestion incrementale des données ,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018
+Docker,Moins de 50,Conteneur,Gestion applicative,Infras et Plateformes,En production,2015
 Drupal,Plus de 100,"Logiciel de gestion 
-de contenus",Gestion de l'information,Général,En production,2012,Non,43000000,43230000,43232100,43232107,Logiciels de création et dédition de pages Web
-ElasticSearch,Moins de 50,Engin de recherche,Gestion de l'information,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232307,Logiciels dextraction de données (data mining)
-Flask,Moins de 50,Cadriciel,Développement,Intelligence d'affaires,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Fluentd,,Collecteur de données pour les logs,Monitoring,Général,En production,2017,,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Git,Moins de 50,Gestion de versions,Développement,Infras et Plateformes,En production,2015,Non,43000000,43230000,43232200,43232203,Logiciels de gestion de versions
-GLPI,Moins de 50,Inventaire,Gestion des données,Sécurité Publique,En déploiement,2018,Non,43000000,43231500,43231508,43231508,Logiciels de gestion des stocks
-Grafana,Moins de 50,Visualisation,Monitoring,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Graylog,Moins de 50,Logs,Monitoring,Infras et Plateformes/Sécurité,En production,2016,Non,43000000,43230000,43232300,43232313,Logiciels serveur de transaction
-Groovy,Moins de 50,Langages de programmation,Développement,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Hadoop Hortonworks,Moins de 50,Cadriciel,Développement,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Helm,Moins de 50,Gestionnaire d'applications dans Kubernetes,Développement,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Ionic,,Cadriciel,Développement mobile,,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Javascript,Plus de 1000,Langages de programmation,Développement,Général,En production,2015,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Jenkins,Moins de 50,Logiciel d'intégration,Gestion applicative,Infras et Plateformes,En production,2015,Non,43000000,43230000,43232200,43232203,Logiciels de gestion de versions
-Jupyter,Moins de 50,Application,Développement,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Kafka,Moins de 50,Agent de messages,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Keras,Moins de 50,Apprentissage machine,Intelligence artificielle,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
+de contenus",Gestion de l'information,Général,En production,2012
+ElasticSearch,Moins de 50,Engin de recherche,Gestion de l'information,Infras et Plateformes,En production,2017
+Flask,Moins de 50,Cadriciel,Développement,Intelligence d'affaires,En production,2017
+Fluentd,,Collecteur de données pour les logs,Monitoring,Général,En production,2017
+Geoserver,Moins de 50,Analyse spatiale,Géospatial,Gestion du territoire,,
+Geopackage,Moins de 50,Format de données géospatial,Géospatial,Gestion du territoire,,
+Git,Moins de 50,Gestion de versions,Développement,Infras et Plateformes,En production,2015
+GLPI,Moins de 50,Inventaire,Gestion des données,Sécurité Publique,En déploiement,2018
+Grafana,Moins de 50,Visualisation,Monitoring,Infras et Plateformes,En production,2017
+Graylog,Moins de 50,Logs,Monitoring,Infras et Plateformes/Sécurité,En production,2016
+Groovy,Moins de 50,Langages de programmation,Développement,Infras et Plateformes,En production,2017
+Hadoop Hortonworks,Moins de 50,Cadriciel,Développement,Intelligence d'affaires,En déploiement,2018
+Helm,Moins de 50,Gestionnaire d'applications dans Kubernetes,Développement,Infras et Plateformes,En production,2017
+Ionic,,Cadriciel,Développement mobile,,En production,2017
+Javascript,Plus de 1000,Langages de programmation,Développement,Général,En production,2015
+Jenkins,Moins de 50,Logiciel d'intégration,Gestion applicative,Infras et Plateformes,En production,2015
+Jupyter,Moins de 50,Application,Développement,Intelligence d'affaires,En déploiement,2017
+Kafka,Moins de 50,Agent de messages,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018
+Keras,Moins de 50,Apprentissage machine,Intelligence artificielle,Intelligence d'affaires,En déploiement,2019
 Kong,Moins de 50,"Interface de programmation 
-applicative",Gestion de l'information,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232313,Logiciels serveur de transaction
-Kubernetes,Moins de 50,Conteneur,Gestion applicative,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Leaflet,Moins de 50,Cartographie,Géospatial,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-LibreNMS,Moins de 50,Surveillance réseau,Télécommunications,Espaces de travail,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Lime Survey,Plus de 100,Logiciel de sondages,Gestion de l'information,Solutions institutionnelles,En production,2007,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Linux,Moins de 50,Système d'opération,Général,Général,En production,2012,Non,43000000,43230000,43233000,43233004,Logiciels systèmes dexploitation
-Locust,Moins de 50,Test de charge,Gestion applicative,Général,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Magento,Plus de 100,Logiciel de vente en ligne,Gestion de relation client,Solutions numériques,En production,2015,Non,43000000,43230000,43231500,43231514,Logiciels de vente et de mercatique
-MariaDB,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En déploiement,2018,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
+applicative",Gestion de l'information,Infras et Plateformes,En production,2017
+Kubernetes,Moins de 50,Conteneur,Gestion applicative,Infras et Plateformes,En production,2017
+Le.taxi,Moins de 50,Taxi,Bureau Taxi Montréal,,En production,2017
+Leaflet,Moins de 50,Cartographie,Géospatial,Intelligence d'affaires,En déploiement,2017
+LibreNMS,Moins de 50,Surveillance réseau,Télécommunications,Espaces de travail,En production,2017
+Lime Survey,Plus de 100,Logiciel de sondages,Gestion de l'information,Solutions institutionnelles,En production,2007
+Linux,Moins de 50,Système d'opération,Général,Général,En production,2012
+Locust,Moins de 50,Test de charge,Gestion applicative,Général,En production,2017
+Magento,Plus de 100,Logiciel de vente en ligne,Gestion de relation client,Solutions numériques,En production,2015
+Mapbox gl js,Plus de 100,Cartes géographiques,Géospatial,Gestion du territoire,En production,2016
+Maputnik,Plus de 101,Cartes géographiques,Géospatial,Gestion du territoire,,
+MariaDB,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En déploiement,2018
 Mediawiki,Plus de 100,"Logiciel de gestion
-documentaire",Gestion documentaire,Présence numérique,En délestage,2008,Non,43000000,43230000,43232500,43232506,Logiciel encyclopédique
-MidPoint,Moins de 50,À préciser,Gestion de l'information,Sécurité,En déploiement,2017,Non,43000000,43230000,43232300,43233201,Logiciels serveurs dauthentification
-MongoDB,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En production,2016,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-MySQL,Plus de 100,Base de données,Gestion des données,Infras et Plateformes,En production,2013,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Netbox,Moins de 50,Documentation réseau,Télécommunications,Espaces de travail,En production,2017,Non,,,,,
-Nexus,Moins de 50,Intégration continue,Développement,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232312,Logiciels serveur portail
-Nginx,Moins de 50,Serveur Web,Gestion de l'information,Infras et Plateformes/Sécurité,En production,2013,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
+documentaire",Gestion documentaire,Présence numérique,En délestage,2008
+MidPoint,Moins de 50,À préciser,Gestion de l'information,Sécurité,En déploiement,2017
+MongoDB,Moins de 50,Base de données,Gestion des données,Infras et Plateformes,En production,2016
+MySQL,Plus de 100,Base de données,Gestion des données,Infras et Plateformes,En production,2013
+Netbox,Moins de 50,Documentation réseau,Télécommunications,Espaces de travail,En production,2017
+Nexus,Moins de 50,Intégration continue,Développement,Infras et Plateformes,En production,2017
+Nginx,Moins de 50,Serveur Web,Gestion de l'information,Infras et Plateformes/Sécurité,En production,2013
 Nifi,Moins de 50,"Gestionnaire de flux 
-de donnéess",Intelligence d'affaires,Intelligence d'affaires,En déploiement ,2018,Non,43000000,43230000,43232200,43232201,Logiciels de gestion de flux de contenus
-Nodejs,Moins de 50,Plateforme de développement,Général,Général,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Nuxeo,Plus de 5 000,"Logiciel de gestion
-documentaire",Gestion documentaire,Espaces de travail,En déploiement,2018,Non,43000000,43230000,43232200,43232202,Logiciels de gestion documentaire
-Oro,Moins de 50,Applications,Gestion de relation client,Solutions Numériques,En production,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-OSM,Moins de 50,Cartes géographiques,Géospatial,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-OSRM,Moins de 50,Engin de routage,Géospatial,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Oxidized,Moins de 50,Gestion des configurations,Télécommunications,Espaces de travail,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Paiement de constats d'infraction,Plus de 5 000,Service numérique,Circulation,Solutions Numériques,En production,2005,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-Permis de chiens,Plus de 5 000,Service numérique,Permis,Solutions Numériques,En production,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-pgAdmin,Moins de 50,Client base de données,Gestion des données,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-PHP,Plus de 100,Langages de programmation,Développement,Général,En production,2012,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Plotly,Moins de 50,Librairie,Visualisation,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232800,43232801,Logiciels de contrôle de réseau
-PostGIS ,Moins de 50,Application,Géospatial,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-PostgreSQL,Moins de 50,Plateforme applicative,Gestion des données,Infras et Plateformes,En déploiement,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Prometheus,Moins de 50,Monitorage,Gestion applicative,Infras et Plateformes,En production,2017,Non,43000000,43230000,43232300,43232304,Logiciels de systèmes de gestion de base de données
-Python,Moins de 50,Langages de programmation,Développement,Intelligence d'affaires,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-PyTorch,Moins de 50,Apprentissage machine,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-QGIS,Moins de 50,Gestion d'information spatiale,Géospatial,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-RabbitMQ,Moins de 50,Agent de messages,Gestion de l'information,Infras et Plateformes,En production,2017,Non,43000000,43220000,43223200,43223204,Plate-forme de messagerie unifiée
-Scikit learn,Moins de 50,Apprentissage machine,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Spark,Moins de 50,Calcul distribué,Communications,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-TensorFlow,Moins de 50,Apprentissage machine,Développement,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
+de donnéess",Intelligence d'affaires,Intelligence d'affaires,En déploiement ,2018
+Nodejs,Moins de 50,Plateforme de développement,Général,Général,En production,2017
+Oro,Moins de 50,Applications,Gestion de relation client,Solutions Numériques,En production,2017
+OSM,Moins de 50,Cartes géographiques,Géospatial,Intelligence d'affaires,En déploiement,2018
+OSRM,Moins de 50,Engin de routage,Géospatial,Intelligence d'affaires,En déploiement,2018
+Oxidized,Moins de 50,Gestion des configurations,Télécommunications,Espaces de travail,En production,2017
+pgAdmin,Moins de 50,Client base de données,Gestion des données,Intelligence d'affaires,En déploiement,2017
+DBeaver,Moins de 50,Client base de données,Gestion des données,Intelligence d'affaires,En déploiement,
+PHP,Plus de 100,Langages de programmation,Développement,Général,En production,2012
+Plotly,Moins de 50,Librairie,Visualisation,Intelligence d'affaires,En déploiement,2017
+PostGIS ,Moins de 50,Application,Géospatial,Intelligence d'affaires,En production,2017
+PostgreSQL,Moins de 50,Plateforme applicative,Gestion des données,Infras et Plateformes,En déploiement,2017
+Prometheus,Moins de 50,Monitorage,Gestion applicative,Infras et Plateformes,En production,2017
+Python,Moins de 50,Langages de programmation,Développement,Intelligence d'affaires,En production,2017
+PyTorch,Moins de 50,Apprentissage machine,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2019
+QGIS,Moins de 50,Gestion d'information spatiale,Géospatial,Intelligence d'affaires,En déploiement,2017
+RabbitMQ,Moins de 50,Agent de messages,Gestion de l'information,Infras et Plateformes,En production,2017
+Scikit learn,Moins de 50,Apprentissage machine,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2017
+Spark,Moins de 50,Calcul distribué,Communications,Intelligence d'affaires,En déploiement,2018
+TensorFlow,Moins de 50,Apprentissage machine,Développement,Intelligence d'affaires,En déploiement,2019
 Tesseract,Moins de 50,"Reconnaissance de 
-caractères",Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018,Non,43000000,43230000,43232400,43211717,Systèmes de reconnaissance optique de caractères
-Typescript,Moins de 50,Langages de programmation,Développement,Général,En production,2017,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Vignette de stationnement,Plus de 5 000,Service numérique,Circulation,Solutions Numériques,En production,2017,Non,43000000,43230000,43232300,43232303,Logiciels de gestion de la relation client GRC
-Visual Studio Code,Moins de 1000,Éditeur,Développement,Général,En production,2016,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
+caractères",Intelligence d'affaires,Intelligence d'affaires,En déploiement,2018
+Typescript,Moins de 50,Langages de programmation,Développement,Général,En production,2017
+Visual Studio Code,Moins de 1000,Éditeur,Développement,Général,En production,2016
 Wordpress,Moins de 50,"Logiciel de gestion 
-de contenus",Gestion de l'information,Solutions Numériques,En production,2010,Non,43000000,43230000,43232100,43232107,Logiciels de création et dédition de pages Web
-WSO2,Moins de 50,"Interface de programmation 
-applicative",Gestion de l'information,Infras et Plateformes,En production,2015,Non,43000000,43230000,43232400,43232402,Logiciels environnement de développement
-Yolo,Moins de 50,Détection d'objets,Intelligence d'affaires,Intelligence d'affaires,En déploiement,2019,Non,43000000,43230000,43232600,43232605,Logiciels analytiques ou scientifiques
-Le.taxi,Moins de 50,,Taxi,Bureau Taxi Montréal,En production,2017,Non,?,?,?,?,http://le.taxi/
+de contenus",Gestion de l'information,Solutions Numériques,En production,2010
+NgRx,Plus de 100,Cadriciel,Développement,Général,En production,2018
+Jaeger,Plus de 100,Traces distribuées,Développement,Infras et Plateformes,,
